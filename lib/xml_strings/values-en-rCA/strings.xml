@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Suggest us what went wrong and we will work on it.</string>
+    <string name="new_txtid_rate_app_later">I'll do later</string>
+    <string name="new_txtid_rate_app_content_new_1">We work very hard and always try our best to make the app better and better everyday. Please encourage us by giving good rating in Store so that we make the app even better for you.</string>
+    <string name="new_txtid_rate_app_content_new_2">Thank you and Have a nice day!</string>
+    <string name="new_txtid_rate_me_5_star">Rate me 5 stars</string>
+    <string name="new_txtid_later">Later</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Give Feedback</string>
+    <string name="new_txtid_dislike">No, Dislike</string>
+    <string name="new_txtid_rating_bar">Rating bar</string>
+    <string name="rate_me_the_best_we_can_get">The Best We Can Get</string>
+    <string name="rate_me_rate_us_on_google_play">Rate us on Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Rate us on App Store</string>
+    <string name="rate_me_rate_us">Rate us</string>
+    <string name="rate_me_not_really">Not really</string>
+    <string name="rate_me_share_feedback">Share feedback</string>
+    <string name="rate_me_oh_no">Oh, no!</string>
+    <string name="rate_me_thats_great">That's great!</string>
+    <string name="rate_me_we_love_it">We love it!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Thank you for your feedback!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">We are sorry to know your experience.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Please leave us some feedback.</string>
+    <string name="rate_me_thank_you_for_your_rating">Thank you for your rating!</string>
+
+    <string name="rate_me_5_stars_message">If you enjoy the app, please consider giving us a 5-star rating. Your feedback is a great motivation for us to keep improving.</string>
+    <string name="rate_me_5_stars_later_btn">Later</string>
+    <string name="rate_me_5_stars_rate_btn">Rate us 5 stars</string>
+</resources> 

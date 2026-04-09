@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Laat ons weten wat er misging, dan werken we eraan.</string>
+    <string name="new_txtid_rate_app_later">Ik doe het later</string>
+    <string name="new_txtid_rate_app_content_new_1">We werken heel hard en proberen elke dag ons best om de app steeds beter te maken. Steun ons door een goede beoordeling in de Store te geven, zodat we de app nog beter voor je kunnen maken.</string>
+    <string name="new_txtid_rate_app_content_new_2">Bedankt en een fijne dag verder!</string>
+    <string name="new_txtid_rate_me_5_star">Beoordeel me met 5 sterren</string>
+    <string name="new_txtid_later">Later</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Geef Feedback</string>
+    <string name="new_txtid_dislike">Nee, Niet leuk</string>
+    <string name="new_txtid_rating_bar">Beoordelingsbalk</string>
+    <string name="rate_me_the_best_we_can_get">Het Beste Wat We Kunnen Krijgen</string>
+    <string name="rate_me_rate_us_on_google_play">Beoordeel ons op Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Beoordeel ons in de App Store</string>
+    <string name="rate_me_rate_us">Beoordeel ons</string>
+    <string name="rate_me_not_really">Niet echt</string>
+    <string name="rate_me_share_feedback">Deel feedback</string>
+    <string name="rate_me_oh_no">Oh nee!</string>
+    <string name="rate_me_thats_great">Dat is geweldig!</string>
+    <string name="rate_me_we_love_it">We zijn er dol op!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Bedankt voor je feedback!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Het spijt ons te horen over uw ervaring.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Laat een reactie achter.</string>
+    <string name="rate_me_thank_you_for_your_rating">Bedankt voor je beoordeling!</string>
+    <string name="rate_me_5_stars_message">Als je de app leuk vindt, overweeg dan om ons een 5-sterrenbeoordeling te geven. Je feedback is een geweldige motivatie voor ons om te blijven verbeteren.</string>
+    <string name="rate_me_5_stars_later_btn">Later</string>
+    <string name="rate_me_5_stars_rate_btn">Beoordeel ons met 5 sterren</string>
+</resources>

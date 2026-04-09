@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">แนะนำเราว่ามีอะไรผิดพลาด แล้วเราจะแก้ไข</string>
+    <string name="new_txtid_rate_app_later">เดี๋ยวค่อยทำ</string>
+    <string name="new_txtid_rate_app_content_new_1">พวกเราทำงานอย่างหนักและพยายามอย่างเต็มที่เสมอ เพื่อทำให้แอปดีขึ้นเรื่อยๆ ทุกวัน โปรดให้กำลังใจพวกเราด้วยการให้คะแนนที่ดีในสโตร์ เพื่อให้พวกเราพัฒนาแอปให้ดียิ่งขึ้นเพื่อคุณ</string>
+    <string name="new_txtid_rate_app_content_new_2">ขอบคุณและขอให้คุณมีวันที่ดี!</string>
+    <string name="new_txtid_rate_me_5_star">ให้คะแนนฉัน 5 ดาว</string>
+    <string name="new_txtid_later">ภายหลัง</string>
+    <string name="new_txtid_rating_dialog_feedback_title">ให้ข้อเสนอแนะ</string>
+    <string name="new_txtid_dislike">ไม่, ไม่ชอบ</string>
+    <string name="new_txtid_rating_bar">แถบให้คะแนน</string>
+    <string name="rate_me_the_best_we_can_get">สิ่งที่ดีที่สุดที่เราจะได้รับ</string>
+    <string name="rate_me_rate_us_on_google_play">ให้คะแนนเราบน Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">ให้คะแนนเราบน App Store</string>
+    <string name="rate_me_rate_us">ให้คะแนนเรา</string>
+    <string name="rate_me_not_really">ไม่เชิง</string>
+    <string name="rate_me_share_feedback">แชร์ข้อเสนอแนะ</string>
+    <string name="rate_me_oh_no">โอ้ ไม่!</string>
+    <string name="rate_me_thats_great">เยี่ยมไปเลย!</string>
+    <string name="rate_me_we_love_it">เรารักมัน!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">ขอบคุณสำหรับความคิดเห็นของคุณ!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">เราขอโทษที่ทราบเกี่ยวกับประสบการณ์ของคุณ</string>
+    <string name="rate_me_please_leave_us_some_feedback">โปรดให้ข้อเสนอแนะแก่เรา</string>
+    <string name="rate_me_thank_you_for_your_rating">ขอบคุณสำหรับการให้คะแนน!</string>
+    <string name="rate_me_5_stars_message">หากคุณชอบแอปนี้ โปรดพิจารณาให้คะแนน 5 ดาวแก่เรา ความคิดเห็นของคุณเป็นแรงจูงใจที่ยอดเยี่ยมให้เราพัฒนาต่อไป</string>
+    <string name="rate_me_5_stars_later_btn">หลังจากนั้น</string>
+    <string name="rate_me_5_stars_rate_btn">ให้คะแนนเรา 5 ดาว</string>
+</resources>

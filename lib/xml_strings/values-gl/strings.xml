@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Suxírenos que fallou e traballaremos niso.</string>
+    <string name="new_txtid_rate_app_later">Farei máis tarde</string>
+    <string name="new_txtid_rate_app_content_new_1">Traballamos moi duro e sempre facemos o posible para mellorar a aplicación cada día máis. Anímate a valorarnos positivamente na tenda para que poidamos mellorar aínda máis a aplicación para ti.</string>
+    <string name="new_txtid_rate_app_content_new_2">Grazas e que teñas un bo día!</string>
+    <string name="new_txtid_rate_me_5_star">Valórame con 5 estrelas</string>
+    <string name="new_txtid_later">Máis tarde</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Dar Feedback</string>
+    <string name="new_txtid_dislike">Non, Non me gusta</string>
+    <string name="new_txtid_rating_bar">Barra de valoración</string>
+    <string name="rate_me_the_best_we_can_get">O Mellor Que Podemos Conseguir</string>
+    <string name="rate_me_rate_us_on_google_play">Valóranos en Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Valóranos na App Store</string>
+    <string name="rate_me_rate_us">Valóranos</string>
+    <string name="rate_me_not_really">Non realmente</string>
+    <string name="rate_me_share_feedback">Compartir comentarios</string>
+    <string name="rate_me_oh_no">Oh, non!</string>
+    <string name="rate_me_thats_great">Iso é xenial!</string>
+    <string name="rate_me_we_love_it">Encántanos!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Grazas polos teus comentarios!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Sentimos saber a súa experiencia.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Por favor, déixanos algún comentario.</string>
+    <string name="rate_me_thank_you_for_your_rating">Grazas pola túa valoración!</string>
+    <string name="rate_me_5_stars_message">Se che gusta a aplicación, considera darnos unha valoración de 5 estrelas. Os teus comentarios son unha gran motivación para seguir mellorando.</string>
+    <string name="rate_me_5_stars_later_btn">Máis tarde</string>
+    <string name="rate_me_5_stars_rate_btn">Valóranos con 5 estrelas</string>
+</resources>

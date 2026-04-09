@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Pastāstiet, kas nogāja greizi, un mēs to labosim.</string>
+    <string name="new_txtid_rate_app_later">Darīšu vēlāk</string>
+    <string name="new_txtid_rate_app_content_new_1">Mēs ļoti smagi strādājam un vienmēr cenšamies padarīt lietotni labāku katru dienu. Lūdzu, atbalstiet mūs, novērtējot mūs veikalā, lai mēs varētu padarīt lietotni vēl labāku jums.</string>
+    <string name="new_txtid_rate_app_content_new_2">Paldies un jauku dienu!</string>
+    <string name="new_txtid_rate_me_5_star">Novērtē mani ar 5 zvaigznēm</string>
+    <string name="new_txtid_later">Vēlāk</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Sniedziet Atsauksmi</string>
+    <string name="new_txtid_dislike">Nē, Nepatīk</string>
+    <string name="new_txtid_rating_bar">Vērtējuma josla</string>
+    <string name="rate_me_the_best_we_can_get">Labākais, Ko Varam Iegūt</string>
+    <string name="rate_me_rate_us_on_google_play">Novērtē mūs Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Novērtējiet mūs App Store</string>
+    <string name="rate_me_rate_us">Novērtē mūs</string>
+    <string name="rate_me_not_really">Īsti nē</string>
+    <string name="rate_me_share_feedback">Dalīties ar atsauksmēm</string>
+    <string name="rate_me_oh_no">Ak, nē!</string>
+    <string name="rate_me_thats_great">Tas ir lieliski!</string>
+    <string name="rate_me_we_love_it">Mēs to mīlam!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Paldies par jūsu atsauksmēm!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Atvainojamies, ka jums bija šāda pieredze.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Lūdzu, atstājiet mums atsauksmes.</string>
+    <string name="rate_me_thank_you_for_your_rating">Paldies par vērtējumu!</string>
+    <string name="rate_me_5_stars_message">Ja jums patīk lietotne, lūdzu, apsveriet iespēju piešķirt mums 5 zvaigžņu vērtējumu. Jūsu atsauksmes ir lieliska motivācija mums turpināt pilnveidoties.</string>
+    <string name="rate_me_5_stars_later_btn">Vēlāk</string>
+    <string name="rate_me_5_stars_rate_btn">Novērtējiet mūs ar 5 zvaigznēm</string>
+</resources>

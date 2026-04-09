@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Падкажыце нам, што пайшло не так, і мы папрацуем над гэтым.</string>
+    <string name="new_txtid_rate_app_later">Я зраблю пазней</string>
+    <string name="new_txtid_rate_app_content_new_1">Мы вельмі стараемся і заўсёды імкнемся зрабіць прыкладанне лепшым і лепшым кожны дзень. Калі ласка, падтрымаеце нас, паставіўшы добрую ацэнку ў краме, каб мы маглі зрабіць прыкладанне яшчэ лепшым для вас.</string>
+    <string name="new_txtid_rate_app_content_new_2">Дзякуй і добрага дня!</string>
+    <string name="new_txtid_rate_me_5_star">Ацані мяне на 5 зорак</string>
+    <string name="new_txtid_later">Пазней</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Дайце Водгук</string>
+    <string name="new_txtid_dislike">Не, Не падабаецца</string>
+    <string name="new_txtid_rating_bar">Рэйтынгавы бар</string>
+    <string name="rate_me_the_best_we_can_get">Лепшае, Што Мы Можам Атрымаць</string>
+    <string name="rate_me_rate_us_on_google_play">Ацаніце нас у Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Ацаніце нас у App Store</string>
+    <string name="rate_me_rate_us">Ацаніце нас</string>
+    <string name="rate_me_not_really">Не зусім</string>
+    <string name="rate_me_share_feedback">Падзяліцца водгукамі</string>
+    <string name="rate_me_oh_no">О, не!</string>
+    <string name="rate_me_thats_great">Выдатна!</string>
+    <string name="rate_me_we_love_it">Нам вельмі падабаецца!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Дзякуй за ваш водгук!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Нам шкада чуць пра ваш досвед.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Калі ласка, пакіньце нам водгук.</string>
+    <string name="rate_me_thank_you_for_your_rating">Дзякуй за вашу ацэнку!</string>
+    <string name="rate_me_5_stars_message">Калі вам падабаецца праграма, калі ласка, падумайце аб тым, каб паставіць нам 5 зорак. Вашы водгукі - выдатная матывацыя для нас працягваць удасканальвацца.</string>
+    <string name="rate_me_5_stars_later_btn">Пазней</string>
+    <string name="rate_me_5_stars_rate_btn">Ацаніце нас на 5 зорак</string>
+</resources>

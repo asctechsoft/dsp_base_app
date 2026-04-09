@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Προτείνετε μας τι πήγε στραβά και θα το διορθώσουμε.</string>
+    <string name="new_txtid_rate_app_later">Θα το κάνω αργότερα</string>
+    <string name="new_txtid_rate_app_content_new_1">Δουλεύουμε πολύ σκληρά και προσπαθούμε πάντα το καλύτερο δυνατό για να κάνουμε την εφαρμογή καλύτερη και καλύτερη καθημερινά. Παρακαλούμε να μας ενθαρρύνετε δίνοντας καλή βαθμολογία στο κατάστημα, ώστε να κάνουμε την εφαρμογή ακόμα καλύτερη για εσάς.</string>
+    <string name="new_txtid_rate_app_content_new_2">Σας ευχαριστώ και καλή μέρα!</string>
+    <string name="new_txtid_rate_me_5_star">Βαθμολόγησέ με με 5 αστέρια</string>
+    <string name="new_txtid_later">Αργότερα</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Δώστε Ανατροφοδότηση</string>
+    <string name="new_txtid_dislike">Όχι, Δεν μου αρέσει</string>
+    <string name="new_txtid_rating_bar">Μπάρα αξιολόγησης</string>
+    <string name="rate_me_the_best_we_can_get">Το Καλύτερο Που Μπορούμε Να Πάρουμε</string>
+    <string name="rate_me_rate_us_on_google_play">Βαθμολογήστε μας στο Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Βαθμολογήστε μας στο App Store</string>
+    <string name="rate_me_rate_us">Βαθμολογήστε μας</string>
+    <string name="rate_me_not_really">Όχι πραγματικά</string>
+    <string name="rate_me_share_feedback">Μοιραστείτε σχόλια</string>
+    <string name="rate_me_oh_no">Ωχ, όχι!</string>
+    <string name="rate_me_thats_great">Αυτό είναι υπέροχο!</string>
+    <string name="rate_me_we_love_it">Το λατρεύουμε!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Ευχαριστούμε για τα σχόλιά σας!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Λυπούμαστε που μάθαμε για την εμπειρία σας.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Παρακαλούμε αφήστε μας σχόλια.</string>
+    <string name="rate_me_thank_you_for_your_rating">Ευχαριστούμε για την αξιολόγησή σας!</string>
+    <string name="rate_me_5_stars_message">Αν σας αρέσει η εφαρμογή, σκεφτείτε να μας δώσετε μια βαθμολογία 5 αστέρων. Τα σχόλιά σας είναι ένα μεγάλο κίνητρο για να συνεχίσουμε να βελτιωνόμαστε.</string>
+    <string name="rate_me_5_stars_later_btn">Αργότερα</string>
+    <string name="rate_me_5_stars_rate_btn">Βαθμολογήστε μας με 5 αστέρια</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Javasolj nekünk, hogy mi ment rosszul, és dolgozni fogunk rajta.</string>
+    <string name="new_txtid_rate_app_later">Később csinálom</string>
+    <string name="new_txtid_rate_app_content_new_1">Nagyon keményen dolgozunk, és mindig a legjobbat nyújtjuk, hogy napról napra jobbá tegyük az alkalmazást. Kérjük, támogass minket azzal, hogy jó értékelést adsz az áruházban, hogy még jobbá tehessük az alkalmazást számodra.</string>
+    <string name="new_txtid_rate_app_content_new_2">Köszönöm, és szép napot!</string>
+    <string name="new_txtid_rate_me_5_star">Értékelj 5 csillaggal</string>
+    <string name="new_txtid_later">Később</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Visszajelzés Küldése</string>
+    <string name="new_txtid_dislike">Nem, Nem tetszik</string>
+    <string name="new_txtid_rating_bar">Értékelősáv</string>
+    <string name="rate_me_the_best_we_can_get">A Legjobb, Amit Kaphatunk</string>
+    <string name="rate_me_rate_us_on_google_play">Értékelj minket a Google Play-en</string>
+    <string name="rate_me_rate_us_on_appstore">Értékelj minket az App Store-ban</string>
+    <string name="rate_me_rate_us">Értékelj minket</string>
+    <string name="rate_me_not_really">Nem igazán</string>
+    <string name="rate_me_share_feedback">Ossza meg a visszajelzést</string>
+    <string name="rate_me_oh_no">Ó, nem!</string>
+    <string name="rate_me_thats_great">Ez nagyszerű!</string>
+    <string name="rate_me_we_love_it">Imádjuk!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Köszönjük a visszajelzését!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Sajnáljuk, hogy ilyen tapasztalata volt.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Kérjük, hagyjon nekünk visszajelzést.</string>
+    <string name="rate_me_thank_you_for_your_rating">Köszönjük az értékelést!</string>
+    <string name="rate_me_5_stars_message">Ha tetszik az alkalmazás, kérjük, fontold meg, hogy 5 csillaggal értékelsz minket. Visszajelzésed nagyszerű motiváció számunkra a folyamatos fejlődéshez.</string>
+    <string name="rate_me_5_stars_later_btn">Később</string>
+    <string name="rate_me_5_stars_rate_btn">Értékelj minket 5 csillaggal</string>
+</resources>

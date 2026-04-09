@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Suggereer vir ons wat verkeerd gegaan het en ons sal daaraan werk.</string>
+    <string name="new_txtid_rate_app_later">Ek sal later doen</string>
+    <string name="new_txtid_rate_app_content_new_1">Ons werk baie hard en probeer altyd ons bes om die app elke dag beter en beter te maak. Moedig ons asseblief aan deur goeie gradering in die winkel te gee, sodat ons die app nog beter vir u maak.</string>
+    <string name="new_txtid_rate_app_content_new_2">Dankie en \'n lekker dag!</string>
+    <string name="new_txtid_rate_me_5_star">Beoordeel my 5 sterre</string>
+    <string name="new_txtid_later">Later</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Gee Terugvoer</string>
+    <string name="new_txtid_dislike">Nee, Hou nie van nie</string>
+    <string name="new_txtid_rating_bar">Graderingsbalk</string>
+    <string name="rate_me_the_best_we_can_get">Die Beste Wat Ons Kan Kry</string>
+    <string name="rate_me_rate_us_on_google_play">Beoordeel ons op Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Beoordeel ons op App Store</string>
+    <string name="rate_me_rate_us">Beoordeel ons</string>
+    <string name="rate_me_not_really">Nie regtig nie</string>
+    <string name="rate_me_share_feedback">Deel terugvoer</string>
+    <string name="rate_me_oh_no">O, nee!</string>
+    <string name="rate_me_thats_great">Dit is wonderlik!</string>
+    <string name="rate_me_we_love_it">Ons is mal daaroor!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Dankie vir jou terugvoer!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Ons is jammer om van jou ervaring te hoor.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Laat asseblief vir ons terugvoer.</string>
+    <string name="rate_me_thank_you_for_your_rating">Dankie vir jou beoordeling!</string>
+    <string name="rate_me_5_stars_message">As jy die app geniet, oorweeg asseblief om vir ons \'n 5-ster-gradering te gee. Jou terugvoer is \'n groot motivering vir ons om aan te hou verbeter.</string>
+    <string name="rate_me_5_stars_later_btn">Later</string>
+    <string name="rate_me_5_stars_rate_btn">Beoordeel ons 5 sterre</string>
+</resources>

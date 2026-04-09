@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">ಏನು ತಪ್ಪಾಗಿದೆ ಎಂದು ನಮಗೆ ಸೂಚಿಸಿ ಮತ್ತು ನಾವು ಅದರ ಮೇಲೆ ಕೆಲಸ ಮಾಡುತ್ತೇವೆ.</string>
+    <string name="new_txtid_rate_app_later">ನಾನು ನಂತರ ಮಾಡುತ್ತೇನೆ</string>
+    <string name="new_txtid_rate_app_content_new_1">ನಾವು ಬಹಳ ಶ್ರಮಿಸುತ್ತೇವೆ ಮತ್ತು ಪ್ರತಿದಿನವೂ ಆಪ್ ಅನ್ನು ಉತ್ತಮಗೊಳಿಸಲು ನಮ್ಮ ಶ್ರೇಷ್ಠ ಪ್ರಯತ್ನಿಸುತ್ತೇವೆ. ದಯವಿಟ್ಟು ಅಂಗಡಿಯಲ್ಲಿ ಉತ್ತಮ ಶ್ರೇಣಿಯನ್ನು ನೀಡಿ ನಮ್ಮನ್ನು ಪ್ರೋತ್ಸಾಹಿಸಿ, ಇದರಿಂದ ನಾವು ನಿಮ್ಮಿಗಾಗಿ ಆಪ್ ಅನ್ನು ಇನ್ನಷ್ಟು ಉತ್ತಮಗೊಳಿಸಬಹುದು.</string>
+    <string name="new_txtid_rate_app_content_new_2">ಧನ್ಯವಾದಗಳು ಮತ್ತು ಒಳ್ಳೆಯ ದಿನ!</string>
+    <string name="new_txtid_rate_me_5_star">ನನಗೆ 5 ಸ್ಟಾರ್ ರೇಟ್ ಮಾಡಿ</string>
+    <string name="new_txtid_later">ನಂತರ</string>
+    <string name="new_txtid_rating_dialog_feedback_title">ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ</string>
+    <string name="new_txtid_dislike">ಇಲ್ಲ, ಇಷ್ಟವಿಲ್ಲ</string>
+    <string name="new_txtid_rating_bar">ರೇಟಿಂಗ್ ಬಾರ್</string>
+    <string name="rate_me_the_best_we_can_get">ನಾವು ಪಡೆಯಲು ಸಾಧ್ಯವಿರುವ ಅತ್ಯುತ್ತಮ</string>
+    <string name="rate_me_rate_us_on_google_play">Google Play ನಲ್ಲಿ ನಮಗೆ ರೇಟ್ ಮಾಡಿ</string>
+    <string name="rate_me_rate_us_on_appstore">ಆಪ್ ಸ್ಟೋರ್‌ನಲ್ಲಿ ನಮ್ಮನ್ನು ರೇಟ್ ಮಾಡಿ</string>
+    <string name="rate_me_rate_us">ನಮ್ಮನ್ನು ರೇಟ್ ಮಾಡಿ</string>
+    <string name="rate_me_not_really">ನಿಜವಾಗಿಯೂ ಅಲ್ಲ</string>
+    <string name="rate_me_share_feedback">ಪ್ರತಿಕ್ರಿಯೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="rate_me_oh_no">ಅಯ್ಯೋ, ಬೇಡ!</string>
+    <string name="rate_me_thats_great">ಅದು ಅದ್ಭುತ!</string>
+    <string name="rate_me_we_love_it">ನಮಗೆ ಇದು ತುಂಬಾ ಇಷ್ಟ!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಗೆ ಧನ್ಯವಾದಗಳು!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">ನಿಮ್ಮ ಅನುಭವವನ್ನು ತಿಳಿದು ವಿಷಾದಿಸುತ್ತೇವೆ.</string>
+    <string name="rate_me_please_leave_us_some_feedback">ದಯವಿಟ್ಟು ನಮಗೆ ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ.</string>
+    <string name="rate_me_thank_you_for_your_rating">ನಿಮ್ಮ ರೇಟಿಂಗ್‌ಗೆ ಧನ್ಯವಾದಗಳು!</string>
+    <string name="rate_me_5_stars_message">ನಿಮಗೆ ಅಪ್ಲಿಕೇಶನ್ ಇಷ್ಟವಾದಲ್ಲಿ, ದಯವಿಟ್ಟು ನಮಗೆ 5-ಸ್ಟಾರ್ ರೇಟಿಂಗ್ ನೀಡಲು ಪರಿಗಣಿಸಿ. ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆ ನಮಗೆ ಮತ್ತಷ್ಟು ಉತ್ತಮಪಡಿಸಲು ಒಂದು ದೊಡ್ಡ ಪ್ರೇರಣೆ.</string>
+    <string name="rate_me_5_stars_later_btn">ನಂತರ</string>
+    <string name="rate_me_5_stars_rate_btn">ನಮಗೆ 5 ಸ್ಟಾರ್ ರೇಟ್ ಮಾಡಿ</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Бізге не дұрыс болмағанын айтыңыз, біз оны жөндейміз.</string>
+    <string name="new_txtid_rate_app_later">Кейінірек жасаймын</string>
+    <string name="new_txtid_rate_app_content_new_1">Біз өте тырысып жұмыс істейміз және күн сайын қолданбаны жақсартуға тырысамыз. Бізді қолдау үшін, Store дүкенінде жақсы баға беріңіз, сонда біз қолданбаны сіз үшін одан да жақсырақ етеміз.</string>
+    <string name="new_txtid_rate_app_content_new_2">Рақмет және жақсы күн тілеймін!</string>
+    <string name="new_txtid_rate_me_5_star">Маған 5 жұлдыз қойыңыз</string>
+    <string name="new_txtid_later">Кейінірек</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Кері Байланыс Беру</string>
+    <string name="new_txtid_dislike">Жоқ, Ұнамады</string>
+    <string name="new_txtid_rating_bar">Рейтинг жолағы</string>
+    <string name="rate_me_the_best_we_can_get">Біз Ала Алатын Ең Жақсысы</string>
+    <string name="rate_me_rate_us_on_google_play">Бізді Google Play-де бағалаңыз</string>
+    <string name="rate_me_rate_us_on_appstore">App Store-да бағалаңыз</string>
+    <string name="rate_me_rate_us">Бізді бағалаңыз</string>
+    <string name="rate_me_not_really">Онша емес</string>
+    <string name="rate_me_share_feedback">Пікір бөлісу</string>
+    <string name="rate_me_oh_no">О, жоқ!</string>
+    <string name="rate_me_thats_great">Керемет!</string>
+    <string name="rate_me_we_love_it">Бізге қатты ұнайды!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Пікіріңіз үшін рақмет!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Сіздің тәжірибеңіз туралы білгенімізге өкінеміз.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Бізге кері байланыс қалдырыңыз.</string>
+    <string name="rate_me_thank_you_for_your_rating">Рейтингіңіз үшін рахмет!</string>
+    <string name="rate_me_5_stars_message">Егер қосымша сізге ұнаса, бізге 5 жұлдызды баға беруді қарастырыңыз. Сіздің пікіріңіз бізді жақсартуды жалғастыруға үлкен мотивация береді.</string>
+    <string name="rate_me_5_stars_later_btn">Кейінірек</string>
+    <string name="rate_me_5_stars_rate_btn">Бізге 5 жұлдыз қойыңыз</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Zasugeruj nam, co poszło nie tak, a my to naprawimy.</string>
+    <string name="new_txtid_rate_app_later">Zrobię to później</string>
+    <string name="new_txtid_rate_app_content_new_1">Pracujemy bardzo ciężko i zawsze staramy się, aby aplikacja była każdego dnia coraz lepsza. Prosimy, zmotywuj nas, oceniając nas dobrze w Sklepie, abyśmy mogli tworzyć jeszcze lepszą aplikację dla Ciebie.</string>
+    <string name="new_txtid_rate_app_content_new_2">Dziękuję i miłego dnia!</string>
+    <string name="new_txtid_rate_me_5_star">Oceń mnie na 5 gwiazdek</string>
+    <string name="new_txtid_later">Później</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Przekaż Opinię</string>
+    <string name="new_txtid_dislike">Nie, Nie lubię</string>
+    <string name="new_txtid_rating_bar">Pasek oceny</string>
+    <string name="rate_me_the_best_we_can_get">Najlepsze, Co Możemy Dostać</string>
+    <string name="rate_me_rate_us_on_google_play">Oceń nas w Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Oceń nas w App Store</string>
+    <string name="rate_me_rate_us">Oceń nas</string>
+    <string name="rate_me_not_really">Nie bardzo</string>
+    <string name="rate_me_share_feedback">Podziel się opinią</string>
+    <string name="rate_me_oh_no">O nie!</string>
+    <string name="rate_me_thats_great">To świetnie!</string>
+    <string name="rate_me_we_love_it">Kochamy to!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Dziękujemy za opinię!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Przykro nam słyszeć o twoich doświadczeniach.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Proszę, zostaw nam opinię.</string>
+    <string name="rate_me_thank_you_for_your_rating">Dziękujemy za ocenę!</string>
+    <string name="rate_me_5_stars_message">Jeśli podoba Ci się ta aplikacja, rozważ przyznanie nam 5 gwiazdek. Twoja opinia jest dla nas wielką motywacją do ciągłego doskonalenia.</string>
+    <string name="rate_me_5_stars_later_btn">Później</string>
+    <string name="rate_me_5_stars_rate_btn">Oceń nas na 5 gwiazdek</string>
+</resources>

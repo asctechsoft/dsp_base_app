@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Suggérez-nous ce qui n\'a pas fonctionné et nous y travaillerons.</string>
+    <string name="new_txtid_rate_app_later">Je le ferai plus tard</string>
+    <string name="new_txtid_rate_app_content_new_1">Nous travaillons très dur et faisons toujours de notre mieux pour améliorer l\'application chaque jour. Veuillez nous encourager en donnant une bonne note sur le Store afin que nous puissions rendre l\'application encore meilleure pour vous.</string>
+    <string name="new_txtid_rate_app_content_new_2">Merci et bonne journée !</string>
+    <string name="new_txtid_rate_me_5_star">Donnez-moi 5 étoiles</string>
+    <string name="new_txtid_later">Plus tard</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Donner Votre Avis</string>
+    <string name="new_txtid_dislike">Non, Je n\'aime pas</string>
+    <string name="new_txtid_rating_bar">Barre de notation</string>
+    <string name="rate_me_the_best_we_can_get">Le Meilleur Que Nous Puissions Obtenir</string>
+    <string name="rate_me_rate_us_on_google_play">Évaluez-nous sur Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Évaluez-nous sur l\'App Store</string>
+    <string name="rate_me_rate_us">Évaluez-nous</string>
+    <string name="rate_me_not_really">Pas vraiment</string>
+    <string name="rate_me_share_feedback">Partager vos commentaires</string>
+    <string name="rate_me_oh_no">Oh non !</string>
+    <string name="rate_me_thats_great">C\'est génial !</string>
+    <string name="rate_me_we_love_it">On adore !!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Merci pour vos commentaires !</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Nous sommes désolés d\'apprendre votre expérience.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Veuillez nous laisser vos commentaires.</string>
+    <string name="rate_me_thank_you_for_your_rating">Merci pour votre évaluation !</string>
+    <string name="rate_me_5_stars_message">Si vous appréciez l\'application, pensez à nous attribuer une note de 5 étoiles. Vos commentaires sont une grande motivation pour nous de continuer à nous améliorer.</string>
+    <string name="rate_me_5_stars_later_btn">Plus tard</string>
+    <string name="rate_me_5_stars_rate_btn">Donnez-nous 5 étoiles</string>
+</resources>

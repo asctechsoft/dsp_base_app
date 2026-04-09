@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">請告訴我們哪裡出錯了，我們會努力改進。</string>
+    <string name="new_txtid_rate_app_later">我稍後再做</string>
+    <string name="new_txtid_rate_app_content_new_1">我們每天都非常努力，並盡力讓應用程式變得越來越好。請在商店給予我們好評，鼓勵我們，這樣我們就能為您打造更好的應用程式。</string>
+    <string name="new_txtid_rate_app_content_new_2">謝謝你，祝你有美好的一天！</string>
+    <string name="new_txtid_rate_me_5_star">給我五顆星評價</string>
+    <string name="new_txtid_later">稍後</string>
+    <string name="new_txtid_rating_dialog_feedback_title">給予反饋</string>
+    <string name="new_txtid_dislike">不，不喜歡</string>
+    <string name="new_txtid_rating_bar">評分條</string>
+    <string name="rate_me_the_best_we_can_get">我們能做到的最好</string>
+    <string name="rate_me_rate_us_on_google_play">在 Google Play 上評價我們</string>
+    <string name="rate_me_rate_us_on_appstore">在App Store給我們評分</string>
+    <string name="rate_me_rate_us">評價我們</string>
+    <string name="rate_me_not_really">沒有耶</string>
+    <string name="rate_me_share_feedback">分享意見</string>
+    <string name="rate_me_oh_no">哦，不！</string>
+    <string name="rate_me_thats_great">太棒了！</string>
+    <string name="rate_me_we_love_it">超愛der!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">謝謝您的反饋！</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">很抱歉得知您的體驗不佳。</string>
+    <string name="rate_me_please_leave_us_some_feedback">請給我們一些反饋。</string>
+    <string name="rate_me_thank_you_for_your_rating">謝謝您的評分！</string>
+    <string name="rate_me_5_stars_message">如果您喜歡這個應用程式，請考慮給我們五星評價。您的回饋是我們不斷進步的最大動力。</string>
+    <string name="rate_me_5_stars_later_btn">稍後</string>
+    <string name="rate_me_5_stars_rate_btn">給我們 5 星評價</string>
+</resources>

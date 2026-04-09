@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Soovita, mis läks valesti, ja me tegeleme sellega.</string>
+    <string name="new_txtid_rate_app_later">Ma teen hiljem</string>
+    <string name="new_txtid_rate_app_content_new_1">Me töötame väga kõvasti ja püüame alati anda endast parima, et muuta rakendus iga päevaga paremaks. Palun julgustage meid hea hinnanguga poes, et saaksime rakenduse teie jaoks veelgi paremaks muuta.</string>
+    <string name="new_txtid_rate_app_content_new_2">Aitäh ja ilusat päeva!</string>
+    <string name="new_txtid_rate_me_5_star">Hinda mind 5 tärniga</string>
+    <string name="new_txtid_later">Hiljem</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Anna Tagasisidet</string>
+    <string name="new_txtid_dislike">Ei, Ei meeldi</string>
+    <string name="new_txtid_rating_bar">Hinnanguriba</string>
+    <string name="rate_me_the_best_we_can_get">Parim, Mida Saame</string>
+    <string name="rate_me_rate_us_on_google_play">Hinda meid Google Plays</string>
+    <string name="rate_me_rate_us_on_appstore">Hinda meid App Store\'is</string>
+    <string name="rate_me_rate_us">Hinda meid</string>
+    <string name="rate_me_not_really">Pigem mitte</string>
+    <string name="rate_me_share_feedback">Jaga tagasisidet</string>
+    <string name="rate_me_oh_no">Oh ei!</string>
+    <string name="rate_me_thats_great">See on suurepärane!</string>
+    <string name="rate_me_we_love_it">Meile väga meeldib!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Aitäh tagasiside eest!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Meil on kahju kuulda teie kogemusest.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Palun jätke meile tagasisidet.</string>
+    <string name="rate_me_thank_you_for_your_rating">Aitäh hinnangu eest!</string>
+    <string name="rate_me_5_stars_message">Kui sulle rakendus meeldib, siis palun kaalu meile 5-tärni hinnangu andmist. Sinu tagasiside on meile suureks motivatsiooniks, et jätkaksime arenemist.</string>
+    <string name="rate_me_5_stars_later_btn">Hiljem</string>
+    <string name="rate_me_5_stars_rate_btn">Hinda meid 5 tärniga</string>
+</resources>

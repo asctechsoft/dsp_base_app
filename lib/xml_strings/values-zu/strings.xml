@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Sazise ukuthi yini engahambanga kahle, sizoyilungisa.</string>
+    <string name="new_txtid_rate_app_later">Ngizokwenza kamuva</string>
+    <string name="new_txtid_rate_app_content_new_1">Sisebenza kanzima kakhulu futhi ngaso sonke isikhathi sizama konke okusemandleni ethu ukwenza uhlelo lokusebenza lube ngcono futhi lube ngcono usuku nosuku. Sicela usikhuthaze ngokusinika isilinganiso esihle eSitolo ukuze senze uhlelo lokusebenza lube ngcono nakakhulu kuwe.</string>
+    <string name="new_txtid_rate_app_content_new_2">Ngiyabonga futhi ube nosuku oluhle!</string>
+    <string name="new_txtid_rate_me_5_star">Ngilinganise izinkanyezi ezi-5</string>
+    <string name="new_txtid_later">Kamuva</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Nikeza Impendulo</string>
+    <string name="new_txtid_dislike">Cha, Ungathandi</string>
+    <string name="new_txtid_rating_bar">Ibha yokulinganisa</string>
+    <string name="rate_me_the_best_we_can_get">Okukhulu Esingakuthola</string>
+    <string name="rate_me_rate_us_on_google_play">Silinganise ku-Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Silinganise ku-App Store</string>
+    <string name="rate_me_rate_us">Silinganise</string>
+    <string name="rate_me_not_really">Hhayi kahle</string>
+    <string name="rate_me_share_feedback">Yabelana ngempendulo</string>
+    <string name="rate_me_oh_no">O, cha!</string>
+    <string name="rate_me_thats_great">Kuhle lokho!</string>
+    <string name="rate_me_we_love_it">Siyakuthanda!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Siyabonga ngempendulo yakho!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Siyaxolisa ukuzwa ngalokho okuhlangenwe nakho.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Sicela usishiye impendulo.</string>
+    <string name="rate_me_thank_you_for_your_rating">Ngiyabonga ngesilinganiso sakho!</string>
+    <string name="rate_me_5_stars_message">Uma ulujabulela uhlelo lokusebenza, sicela ucabangele ukusinika isilinganiso sezinkanyezi ezi-5. Impendulo yakho iyisikhuthazo esikhulu kithi ukuthi siqhubeke sithuthuka.</string>
+    <string name="rate_me_5_stars_later_btn">Ngemuva</string>
+    <string name="rate_me_5_stars_rate_btn">Silinganisele ngezinkanyezi ezingu-5</string>
+</resources>

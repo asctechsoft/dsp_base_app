@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Sugerează-ne ce a mers prost și vom lucra la asta.</string>
+    <string name="new_txtid_rate_app_later">Voi face mai târziu</string>
+    <string name="new_txtid_rate_app_content_new_1">Muncim din greu și încercăm mereu să îmbunătățim aplicația în fiecare zi. Vă rugăm să ne încurajați cu o evaluare bună în Magazin, astfel încât să facem aplicația și mai bună pentru dumneavoastră.</string>
+    <string name="new_txtid_rate_app_content_new_2">Mulțumesc și ai o zi frumoasă!</string>
+    <string name="new_txtid_rate_me_5_star">Acordă-mi 5 stele</string>
+    <string name="new_txtid_later">Mai târziu</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Oferiți Feedback</string>
+    <string name="new_txtid_dislike">Nu, Nu-mi place</string>
+    <string name="new_txtid_rating_bar">Bară de evaluare</string>
+    <string name="rate_me_the_best_we_can_get">Cel Mai Bun Pe Care Îl Putem Obține</string>
+    <string name="rate_me_rate_us_on_google_play">Evaluează-ne pe Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Evaluează-ne în App Store</string>
+    <string name="rate_me_rate_us">Evaluează-ne</string>
+    <string name="rate_me_not_really">Nu chiar</string>
+    <string name="rate_me_share_feedback">Trimite feedback</string>
+    <string name="rate_me_oh_no">Oh, nu!</string>
+    <string name="rate_me_thats_great">Super!</string>
+    <string name="rate_me_we_love_it">Ne place mult!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Mulțumim pentru feedback!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Ne pare rău să aflăm despre experiența ta.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Lasă-ne un feedback.</string>
+    <string name="rate_me_thank_you_for_your_rating">Mulțumim pentru evaluare!</string>
+    <string name="rate_me_5_stars_message">Dacă îți place aplicația, te rugăm să ne acorzi o evaluare de 5 stele. Feedback-ul tău este o motivație importantă pentru a continua să ne îmbunătățim.</string>
+    <string name="rate_me_5_stars_later_btn">Mai târziu</string>
+    <string name="rate_me_5_stars_rate_btn">Evaluează-ne cu 5 stele</string>
+</resources>

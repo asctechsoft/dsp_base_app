@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Pasiūlykite, kas nutiko ne taip, ir mes tai ištaisysime.</string>
+    <string name="new_txtid_rate_app_later">Padarysiu vėliau</string>
+    <string name="new_txtid_rate_app_content_new_1">Mes labai sunkiai dirbame ir visada stengiamės, kad programėlė kasdien būtų vis geresnė. Prašome palaikyti mus geru įvertinimu parduotuvėje, kad galėtume padaryti programėlę dar geresnę jums.</string>
+    <string name="new_txtid_rate_app_content_new_2">Ačiū ir geros dienos!</string>
+    <string name="new_txtid_rate_me_5_star">Įvertink mane 5 žvaigždutėmis</string>
+    <string name="new_txtid_later">Vėliau</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Pateikti Atsiliepimą</string>
+    <string name="new_txtid_dislike">Ne, Nepatinka</string>
+    <string name="new_txtid_rating_bar">Įvertinimo juosta</string>
+    <string name="rate_me_the_best_we_can_get">Geriausia, Ką Galime Gauti</string>
+    <string name="rate_me_rate_us_on_google_play">Įvertinkite mus „Google Play“</string>
+    <string name="rate_me_rate_us_on_appstore">Įvertinkite mus „App Store“</string>
+    <string name="rate_me_rate_us">Įvertinkite mus</string>
+    <string name="rate_me_not_really">Nelabai</string>
+    <string name="rate_me_share_feedback">Pasidalinkite atsiliepimais</string>
+    <string name="rate_me_oh_no">O, ne!</string>
+    <string name="rate_me_thats_great">Tai puiku!</string>
+    <string name="rate_me_we_love_it">Mes tai mylime!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Ačiū už atsiliepimą!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Atsiprašome, kad patyrėte tokią patirtį.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Prašome palikti atsiliepimą.</string>
+    <string name="rate_me_thank_you_for_your_rating">Ačiū už įvertinimą!</string>
+    <string name="rate_me_5_stars_message">Jei jums patinka programėlė, apsvarstykite galimybę įvertinti ją 5 žvaigždutėmis. Jūsų atsiliepimai yra puiki motyvacija mums toliau tobulėti.</string>
+    <string name="rate_me_5_stars_later_btn">Vėliau</string>
+    <string name="rate_me_5_stars_rate_btn">Įvertinkite mus 5 žvaigždutėmis</string>
+</resources>

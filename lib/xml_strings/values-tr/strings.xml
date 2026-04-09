@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Bize neyin yanlış gittiğini önerin ve bunun üzerinde çalışacağız.</string>
+    <string name="new_txtid_rate_app_later">Daha sonra yapacağım</string>
+    <string name="new_txtid_rate_app_content_new_1">Uygulamayı her geçen gün daha iyi hale getirmek için çok çalışıyor ve her zaman elimizden gelenin en iyisini yapıyoruz. Uygulamayı sizin için daha da iyi hale getirebilmemiz için lütfen Mağaza\'da iyi puan vererek bizi teşvik edin.</string>
+    <string name="new_txtid_rate_app_content_new_2">Teşekkürler, iyi günler!</string>
+    <string name="new_txtid_rate_me_5_star">Bana 5 yıldız ver</string>
+    <string name="new_txtid_later">Sonra</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Geri Bildirim Ver</string>
+    <string name="new_txtid_dislike">Hayır, Beğenmedim</string>
+    <string name="new_txtid_rating_bar">Değerlendirme çubuğu</string>
+    <string name="rate_me_the_best_we_can_get">Alabileceğimiz En İyisi</string>
+    <string name="rate_me_rate_us_on_google_play">Bizi Google Play\'de değerlendirin</string>
+    <string name="rate_me_rate_us_on_appstore">Bizi App Store\'da değerlendirin</string>
+    <string name="rate_me_rate_us">Bizi değerlendirin</string>
+    <string name="rate_me_not_really">Pek sayılmaz</string>
+    <string name="rate_me_share_feedback">Geri bildirim paylaşın</string>
+    <string name="rate_me_oh_no">Oh, hayır!</string>
+    <string name="rate_me_thats_great">Bu harika!</string>
+    <string name="rate_me_we_love_it">Bayıldık!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Geri bildiriminiz için teşekkür ederiz!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Deneyiminizden dolayı üzgünüz.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Lütfen bize geri bildirim bırakın.</string>
+    <string name="rate_me_thank_you_for_your_rating">Değerlendirmeniz için teşekkür ederiz!</string>
+    <string name="rate_me_5_stars_message">Uygulamayı beğendiyseniz, lütfen bize 5 yıldız vermeyi düşünün. Geri bildiriminiz, gelişmeye devam etmemiz için harika bir motivasyon kaynağıdır.</string>
+    <string name="rate_me_5_stars_later_btn">Daha sonra</string>
+    <string name="rate_me_5_stars_rate_btn">Bize 5 yıldız verin</string>
+</resources>

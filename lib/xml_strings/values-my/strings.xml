@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">ဘာတွေမှားသွားလဲဆိုတာကို အကြံပြုပေးပါ၊ ကျွန်တော်တို့ ပြင်ဆင်သွားပါ့မယ်။</string>
+    <string name="new_txtid_rate_app_later">နောက်မှ လုပ်မယ်။</string>
+    <string name="new_txtid_rate_app_content_new_1">ကျွန်ုပ်တို့သည် အလွန်ကြိုးစားပြီး အက်ပ်ကို နေ့စဉ် ပိုမိုကောင်းမွန်အောင် အမြဲကြိုးစားပါသည်။ Store တွင် ကောင်းမွန်သောအဆင့်သတ်မှတ်ပေးခြင်းဖြင့် ကျွန်ုပ်တို့ကို အားပေးပါ၊ သို့မှသာ သင့်အတွက် အက်ပ်ကို ပို၍ပင်ကောင်းမွန်အောင် ပြုလုပ်နိုင်မည်ဖြစ်သည်။</string>
+    <string name="new_txtid_rate_app_content_new_2">ကျေးဇူးတင်ပါတယ်၊ သင့်နေ့လေးကောင်းပါစေ!</string>
+    <string name="new_txtid_rate_me_5_star">ငါ့ကို ၅ ကြယ်ဖြင့် အဆင့်သတ်မှတ်ပါ</string>
+    <string name="new_txtid_later">နောက်ပိုင်း</string>
+    <string name="new_txtid_rating_dialog_feedback_title">တုံ့ပြန်ချက်ပေးပါ</string>
+    <string name="new_txtid_dislike">မကြိုက်ပါ</string>
+    <string name="new_txtid_rating_bar">အဆင့်သတ်မှတ်ဘား</string>
+    <string name="rate_me_the_best_we_can_get">အကောင်းဆုံးရနိုင်သမျှ</string>
+    <string name="rate_me_rate_us_on_google_play">Google Play တွင် ကျွန်ုပ်တို့ကို အဆင့်သတ်မှတ်ပါ</string>
+    <string name="rate_me_rate_us_on_appstore">App Store တွင် ကျွန်ုပ်တို့ကို အဆင့်သတ်မှတ်ပါ</string>
+    <string name="rate_me_rate_us">ကျွန်ုပ်တို့ကို အဆင့်သတ်မှတ်ပါ</string>
+    <string name="rate_me_not_really">မဟုတ်ပါဘူး</string>
+    <string name="rate_me_share_feedback">အကြံပြုချက်မျှဝေပါ</string>
+    <string name="rate_me_oh_no">အို၊ မဟုတ်ဘူး!</string>
+    <string name="rate_me_thats_great">ဒါက အထူးကောင်းပါတယ်!</string>
+    <string name="rate_me_we_love_it">အရမ်းကြိုက်တယ်။</string>
+    <string name="rate_me_thank_you_for_your_feedback">သင့်ရဲ့ အကြံပြုချက်အတွက် ကျေးဇူးတင်ပါတယ်။</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">ကျွန်ုပ်တို့သည် သင်၏ အတွေ့အကြုံကို သိရှိရသည့်အတွက် ဝမ်းနည်းပါသည်။</string>
+    <string name="rate_me_please_leave_us_some_feedback">ကျေးဇူးပြု၍ တုံ့ပြန်ချက်အချို့ထားခဲ့ပါ။</string>
+    <string name="rate_me_thank_you_for_your_rating">သင်၏အဆင့်သတ်မှတ်မှုအတွက် ကျေးဇူးတင်ပါတယ်!</string>
+    <string name="rate_me_5_stars_message">အက်ပ်ကိုနှစ်သက်တယ်ဆိုရင် ကြယ် ၅ လုံး အဆင့်သတ်မှတ်ပေးဖို့ စဉ်းစားပေးပါ။ သင်တို့ရဲ့ အကြံပြုချက်တွေဟာ ဆက်လက်တိုးတက်အောင် လုပ်ဆောင်ဖို့အတွက် ကြီးမားတဲ့ စေ့ဆော်မှုတစ်ခုဖြစ်ပါတယ်။</string>
+    <string name="rate_me_5_stars_later_btn">နောက်ပိုင်း</string>
+    <string name="rate_me_5_stars_rate_btn">ကြယ် ၅ ပွင့် အဆင့်သတ်မှတ်ပေးပါ</string>
+</resources>

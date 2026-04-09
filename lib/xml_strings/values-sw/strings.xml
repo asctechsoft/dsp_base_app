@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Tujulishe kilichokwenda vibaya na tutafanya kazi nalo.</string>
+    <string name="new_txtid_rate_app_later">Nitafanya baadaye</string>
+    <string name="new_txtid_rate_app_content_new_1">Tunafanya kazi kwa bidii sana na tunajitahidi kila mara kuifanya programu iwe bora zaidi kila siku. Tafadhali tutie moyo kwa kutupa alama nzuri kwenye Duka ili tuweze kuifanya programu iwe bora zaidi kwako.</string>
+    <string name="new_txtid_rate_app_content_new_2">Asante na uwe na siku njema!</string>
+    <string name="new_txtid_rate_me_5_star">Nipe nyota 5</string>
+    <string name="new_txtid_later">Baadaye</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Toa Maoni</string>
+    <string name="new_txtid_dislike">Hapana, Sipendi</string>
+    <string name="new_txtid_rating_bar">Baa ya Ukadiriaji</string>
+    <string name="rate_me_the_best_we_can_get">Bora Tunayoweza Kupata</string>
+    <string name="rate_me_rate_us_on_google_play">Tukadirie kwenye Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Tukadirie kwenye App Store</string>
+    <string name="rate_me_rate_us">Tukadirie</string>
+    <string name="rate_me_not_really">Sio kweli</string>
+    <string name="rate_me_share_feedback">Shiriki maoni</string>
+    <string name="rate_me_oh_no">Oh, hapana!</string>
+    <string name="rate_me_thats_great">Hiyo ni nzuri!</string>
+    <string name="rate_me_we_love_it">Tunapenda!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Asante kwa maoni yako!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Samahani kusikia kuhusu uzoefu wako.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Tafadhali tuachie maoni.</string>
+    <string name="rate_me_thank_you_for_your_rating">Asante kwa alama zako!</string>
+    <string name="rate_me_5_stars_message">Kama unafurahia programu hii, tafadhali fikiria kutupa rating ya nyota 5. Maoni yako ni motisha kubwa kwetu kuendelea kuboresha.</string>
+    <string name="rate_me_5_stars_later_btn">Baadaye</string>
+    <string name="rate_me_5_stars_rate_btn">Tukadirie nyota 5</string>
+</resources>

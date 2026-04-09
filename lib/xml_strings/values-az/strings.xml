@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Bizə nəyi səhv etdiyimizi bildirin, biz bunun üzərində işləyəcəyik.</string>
+    <string name="new_txtid_rate_app_later">Sonra edəcəyəm</string>
+    <string name="new_txtid_rate_app_content_new_1">Biz çox çalışırıq və hər zaman tətbiqi gündən-günə daha da yaxşılaşdırmağa çalışırıq. Xahiş edirik, Mağazada yaxşı reytinq verərək bizi ruhlandırın ki, tətbiqi sizin üçün daha da yaxşı edək.</string>
+    <string name="new_txtid_rate_app_content_new_2">Təşəkkür edirəm və gözəl gün keçirin!</string>
+    <string name="new_txtid_rate_me_5_star">Məni 5 ulduzla qiymətləndirin</string>
+    <string name="new_txtid_later">Sonra</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Rəy Verin</string>
+    <string name="new_txtid_dislike">Xeyr, Bəyənmirəm</string>
+    <string name="new_txtid_rating_bar">Reytinq çubuğu</string>
+    <string name="rate_me_the_best_we_can_get">Əldə Edə Biləcəyimiz Ən Yaxşısı</string>
+    <string name="rate_me_rate_us_on_google_play">Google Play-də bizə qiymət verin</string>
+    <string name="rate_me_rate_us_on_appstore">Bizi App Store-da qiymətləndirin</string>
+    <string name="rate_me_rate_us">Bizi qiymətləndirin</string>
+    <string name="rate_me_not_really">Elə də yox</string>
+    <string name="rate_me_share_feedback">Rəylərinizi paylaşın</string>
+    <string name="rate_me_oh_no">Oh, yox!</string>
+    <string name="rate_me_thats_great">Əla!</string>
+    <string name="rate_me_we_love_it">Bunu sevirik!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Rəyiniz üçün təşəkkür edirik!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Təcrübənizdən xəbərdar olduğumuz üçün üzr istəyirik.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Zəhmət olmasa, bizə rəy bildirin.</string>
+    <string name="rate_me_thank_you_for_your_rating">Reytinqiniz üçün təşəkkür edirik!</string>
+    <string name="rate_me_5_stars_message">Əgər tətbiqdən xoşunuz gəlirsə, zəhmət olmasa bizə 5 ulduz verin. Rəyiniz bizim üçün daha da təkmilləşməyə böyük bir motivasiyadır.</string>
+    <string name="rate_me_5_stars_later_btn">Sonra</string>
+    <string name="rate_me_5_stars_rate_btn">Bizi 5 ulduzla qiymətləndirin</string>
+</resources>

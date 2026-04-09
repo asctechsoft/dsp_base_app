@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Გვითხარით, რა არასწორი იყო და ჩვენ ამაზე ვიმუშავებთ.</string>
+    <string name="new_txtid_rate_app_later">Მოგვიანებით გავაკეთებ</string>
+    <string name="new_txtid_rate_app_content_new_1">Ჩვენ ბევრს ვმუშაობთ და ყოველთვის ვცდილობთ, რომ აპლიკაცია ყოველდღე უკეთესი გავხადოთ. გთხოვთ, გაგვამხნევეთ მაღაზიაში კარგი შეფასების მინიჭებით, რათა აპლიკაცია კიდევ უფრო უკეთესი გავხადოთ თქვენთვის.</string>
+    <string name="new_txtid_rate_app_content_new_2">Გმადლობთ და კარგი დღე გისურვებთ!</string>
+    <string name="new_txtid_rate_me_5_star">Შემაფასე 5 ვარსკვლავით</string>
+    <string name="new_txtid_later">Მოგვიანებით</string>
+    <string name="new_txtid_rating_dialog_feedback_title">გამოხმაურება</string>
+    <string name="new_txtid_dislike">Არა, არ მომწონს</string>
+    <string name="new_txtid_rating_bar">სარეიტინგო ბარი</string>
+    <string name="rate_me_the_best_we_can_get">საუკეთესო, რაც შეგვიძლია მივიღოთ</string>
+    <string name="rate_me_rate_us_on_google_play">Შეგვაფასეთ Google Play-ზე</string>
+    <string name="rate_me_rate_us_on_appstore">Შეგვაფასეთ App Store-ში</string>
+    <string name="rate_me_rate_us">Შეაფასეთ</string>
+    <string name="rate_me_not_really">სინამდვილეში არა</string>
+    <string name="rate_me_share_feedback">Გამოხმაურების გაზიარება</string>
+    <string name="rate_me_oh_no">ოჰ, არა!</string>
+    <string name="rate_me_thats_great">Ეს შესანიშნავია!</string>
+    <string name="rate_me_we_love_it">ჩვენ გვიყვარს !!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">გმადლობთ გამოხმაურებისთვის!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Ვწუხვართ, რომ ასეთი გამოცდილება გქონდათ.</string>
+    <string name="rate_me_please_leave_us_some_feedback">გთხოვთ, დაგვიტოვოთ უკუკავშირი.</string>
+    <string name="rate_me_thank_you_for_your_rating">Გმადლობთ თქვენი შეფასებისთვის!</string>
+    <string name="rate_me_5_stars_message">Თუ მოგწონთ აპლიკაცია, გთხოვთ, შეგვაფასოთ 5 ვარსკვლავით. თქვენი გამოხმაურება შესანიშნავი მოტივაციაა ჩვენთვის, რომ გავაუმჯობესოთ ის.</string>
+    <string name="rate_me_5_stars_later_btn">Მოგვიანებით</string>
+    <string name="rate_me_5_stars_rate_btn">Შეგვაფასეთ 5 ვარსკვლავით</string>
+</resources>

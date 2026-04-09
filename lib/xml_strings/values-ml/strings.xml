@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">എന്താണ് തെറ്റിയതെന്ന് ഞങ്ങളോട് പറയുക, ഞങ്ങൾ അത് ശരിയാക്കാം.</string>
+    <string name="new_txtid_rate_app_later">ഞാൻ പിന്നീട് ചെയ്യും</string>
+    <string name="new_txtid_rate_app_content_new_1">ആപ്പ് കൂടുതൽ മികച്ചതാക്കാൻ ഞങ്ങൾ വളരെ കഠിനാധ്വാനം ചെയ്യുന്നു, കൂടാതെ എല്ലാ ദിവസവും പരമാവധി ശ്രമിക്കുന്നു. സ്റ്റോറിൽ നല്ല റേറ്റിംഗ് നൽകി ഞങ്ങളെ പ്രോത്സാഹിപ്പിക്കുക, അതുവഴി നിങ്ങൾക്ക് വേണ്ടി ആപ്പ് കൂടുതൽ മികച്ചതാക്കാൻ ഞങ്ങൾക്ക് കഴിയും.</string>
+    <string name="new_txtid_rate_app_content_new_2">നന്ദി, ഒരു നല്ല ദിവസം ആശംസിക്കുന്നു!</string>
+    <string name="new_txtid_rate_me_5_star">എനിക്ക് 5 നക്ഷത്രങ്ങൾ നൽകുക</string>
+    <string name="new_txtid_later">പിന്നീട്</string>
+    <string name="new_txtid_rating_dialog_feedback_title">ഫീഡ്ബാക്ക് നൽകുക</string>
+    <string name="new_txtid_dislike">ഇല്ല, ഇഷ്ടമില്ല</string>
+    <string name="new_txtid_rating_bar">റേറ്റിംഗ് ബാർ</string>
+    <string name="rate_me_the_best_we_can_get">നമുക്ക് ലഭിക്കുന്ന ഏറ്റവും മികച്ചത്</string>
+    <string name="rate_me_rate_us_on_google_play">Google Play-യിൽ ഞങ്ങളെ റേറ്റ് ചെയ്യൂ</string>
+    <string name="rate_me_rate_us_on_appstore">App Store-ൽ ഞങ്ങളെ റേറ്റ് ചെയ്യൂ</string>
+    <string name="rate_me_rate_us">ഞങ്ങളെ റേറ്റുചെയ്യുക</string>
+    <string name="rate_me_not_really">അത്രയ്ക്കില്ല</string>
+    <string name="rate_me_share_feedback">അഭിപ്രായം പങ്കിടുക</string>
+    <string name="rate_me_oh_no">ഓ, ഇല്ല!</string>
+    <string name="rate_me_thats_great">അത് മികച്ചതാണ്!</string>
+    <string name="rate_me_we_love_it">ഞങ്ങൾ ഇത് ഇഷ്ടപ്പെടുന്നു!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">നിങ്ങളുടെ പ്രതികരണത്തിന് നന്ദി!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">നിങ്ങളുടെ അനുഭവം അറിയാൻ ഞങ്ങൾ ദുഖിതരാണ്.</string>
+    <string name="rate_me_please_leave_us_some_feedback">ഞങ്ങൾക്ക് കുറച്ച് ഫീഡ്ബാക്ക് നൽകുക.</string>
+    <string name="rate_me_thank_you_for_your_rating">നിങ്ങളുടെ റേറ്റിംഗിന് നന്ദി!</string>
+    <string name="rate_me_5_stars_message">നിങ്ങൾക്ക് ആപ്പ് ഇഷ്ടമായെങ്കിൽ, ഞങ്ങൾക്ക് 5-സ്റ്റാർ റേറ്റിംഗ് നൽകുന്നത് പരിഗണിക്കൂ. നിങ്ങളുടെ പ്രതികരണം മെച്ചപ്പെടുത്താൻ ഞങ്ങൾക്ക് പ്രചോദനമാണ്.</string>
+    <string name="rate_me_5_stars_later_btn">പിന്നീട്</string>
+    <string name="rate_me_5_stars_rate_btn">ഞങ്ങൾക്ക് 5 സ്റ്റാർ റേറ്റിംഗ് നൽകുക</string>
+</resources>

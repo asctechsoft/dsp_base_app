@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Sarankan kepada kami apa yang salah dan kami akan memperbaikinya.</string>
+    <string name="new_txtid_rate_app_later">Saya akan melakukannya nanti</string>
+    <string name="new_txtid_rate_app_content_new_1">Kami bekerja sangat keras dan selalu berusaha sebaik mungkin untuk membuat aplikasi ini semakin baik setiap hari. Mohon dukung kami dengan memberikan penilaian yang baik di Toko agar kami dapat membuat aplikasi ini lebih baik lagi untuk Anda.</string>
+    <string name="new_txtid_rate_app_content_new_2">Terima kasih dan semoga harimu menyenangkan!</string>
+    <string name="new_txtid_rate_me_5_star">Beri saya 5 bintang</string>
+    <string name="new_txtid_later">Nanti</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Berikan Umpan Balik</string>
+    <string name="new_txtid_dislike">Tidak, Tidak Suka</string>
+    <string name="new_txtid_rating_bar">Bintang penilaian</string>
+    <string name="rate_me_the_best_we_can_get">Yang Terbaik yang Bisa Kita Dapatkan</string>
+    <string name="rate_me_rate_us_on_google_play">Nilai kami di Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Nilai kami di App Store</string>
+    <string name="rate_me_rate_us">Nilai kami</string>
+    <string name="rate_me_not_really">Tidak benar-benar</string>
+    <string name="rate_me_share_feedback">Bagikan umpan balik</string>
+    <string name="rate_me_oh_no">Oh, tidak!</string>
+    <string name="rate_me_thats_great">Itu hebat!</string>
+    <string name="rate_me_we_love_it">Kami suka sekali!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Terima kasih atas masukan Anda!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Kami mohon maaf atas pengalaman Anda.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Berikan kami masukan.</string>
+    <string name="rate_me_thank_you_for_your_rating">Terima kasih atas penilaian Anda!</string>
+    <string name="rate_me_5_stars_message">Jika Anda menikmati aplikasi ini, silakan pertimbangkan untuk memberikan kami peringkat 5 bintang. Umpan balik Anda adalah motivasi besar bagi kami untuk terus memperbaiki.</string>
+    <string name="rate_me_5_stars_later_btn">Nanti</string>
+    <string name="rate_me_5_stars_rate_btn">Beri kami 5 bintang</string>
+</resources>

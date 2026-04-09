@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">અમને જણાવો કે શું ખોટું થયું અને અમે તેના પર કામ કરીશું.</string>
+    <string name="new_txtid_rate_app_later">હું પછી કરીશ</string>
+    <string name="new_txtid_rate_app_content_new_1">અમે ખૂબ મહેનત કરીએ છીએ અને દરરોજ એપ્લિકેશનને વધુ અને વધુ સારું બનાવવા માટે હંમેશા શ્રેષ્ઠ પ્રયાસ કરીએ છીએ. કૃપા કરીને સ્ટોરમાં સારી રેટિંગ આપીને અમને પ્રોત્સાહિત કરો જેથી અમે તમારા માટે એપ્લિકેશનને વધુ સારું બનાવી શકીએ.</string>
+    <string name="new_txtid_rate_app_content_new_2">આભાર અને તમારો દિવસ શુભ રહે!</string>
+    <string name="new_txtid_rate_me_5_star">મને 5 સ્ટાર આપો</string>
+    <string name="new_txtid_later">પછી</string>
+    <string name="new_txtid_rating_dialog_feedback_title">પ્રતિસાદ આપો</string>
+    <string name="new_txtid_dislike">ના, નાપસંદ</string>
+    <string name="new_txtid_rating_bar">રેટિંગ બાર</string>
+    <string name="rate_me_the_best_we_can_get">શ્રેષ્ઠ જે આપણે મેળવી શકીએ</string>
+    <string name="rate_me_rate_us_on_google_play">Google Play પર અમને રેટ કરો</string>
+    <string name="rate_me_rate_us_on_appstore">એપ સ્ટોર પર અમને રેટ કરો</string>
+    <string name="rate_me_rate_us">અમને રેટ કરો</string>
+    <string name="rate_me_not_really">ખરેખર નહીં</string>
+    <string name="rate_me_share_feedback">પ્રતિભાવ શેર કરો</string>
+    <string name="rate_me_oh_no">ઓહ, નહીં!</string>
+    <string name="rate_me_thats_great">આ સરસ છે!</string>
+    <string name="rate_me_we_love_it">અમે તેને પ્રેમ કરીએ છીએ!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">તમારા પ્રતિસાદ માટે આભાર!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">તમારો અનુભવ જાણીને અમને દુઃખ થયું.</string>
+    <string name="rate_me_please_leave_us_some_feedback">કૃપા કરીને અમને થોડો પ્રતિસાદ આપો.</string>
+    <string name="rate_me_thank_you_for_your_rating">તમારા રેટિંગ માટે આભાર!</string>
+    <string name="rate_me_5_stars_message">જો તમને એપ્લિકેશન ગમતી હોય, તો કૃપા કરીને અમને 5-સ્ટાર રેટિંગ આપવાનું વિચારો. તમારો પ્રતિસાદ અમને સુધારતા રહેવા માટે એક મહાન પ્રેરણા છે.</string>
+    <string name="rate_me_5_stars_later_btn">બાદમાં</string>
+    <string name="rate_me_5_stars_rate_btn">અમને 5 સ્ટાર રેટ કરો</string>
+</resources>

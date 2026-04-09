@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Sagen Sie uns, was schiefgelaufen ist, und wir werden daran arbeiten.</string>
+    <string name="new_txtid_rate_app_later">Ich mache es später</string>
+    <string name="new_txtid_rate_app_content_new_1">Wir arbeiten sehr hart und versuchen jeden Tag unser Bestes, die App immer weiter zu verbessern. Bitte unterstütze uns mit einer guten Bewertung im Store, damit wir die App für dich noch besser machen können.</string>
+    <string name="new_txtid_rate_app_content_new_2">Danke und einen schönen Tag!</string>
+    <string name="new_txtid_rate_me_5_star">Bewerte mich mit 5 Sternen</string>
+    <string name="new_txtid_later">Später</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Feedback Geben</string>
+    <string name="new_txtid_dislike">Nein, Gefällt mir nicht</string>
+    <string name="new_txtid_rating_bar">Bewertungsleiste</string>
+    <string name="rate_me_the_best_we_can_get">Das Beste, was wir bekommen können</string>
+    <string name="rate_me_rate_us_on_google_play">Bewerte uns auf Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Bewerten Sie uns im App Store</string>
+    <string name="rate_me_rate_us">Bewerten Sie uns</string>
+    <string name="rate_me_not_really">Nicht wirklich</string>
+    <string name="rate_me_share_feedback">Feedback teilen</string>
+    <string name="rate_me_oh_no">Oh nein!</string>
+    <string name="rate_me_thats_great">Das ist großartig!</string>
+    <string name="rate_me_we_love_it">Wir lieben es!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Vielen Dank für Ihr Feedback!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Es tut uns leid, von Ihren Erfahrungen zu hören.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Bitte hinterlassen Sie uns ein Feedback.</string>
+    <string name="rate_me_thank_you_for_your_rating">Vielen Dank für Ihre Bewertung!</string>
+    <string name="rate_me_5_stars_message">Wenn Ihnen die App gefällt, bewerten Sie uns bitte mit 5 Sternen. Ihr Feedback ist eine große Motivation für uns, uns weiter zu verbessern.</string>
+    <string name="rate_me_5_stars_later_btn">Später</string>
+    <string name="rate_me_5_stars_rate_btn">Bewerten Sie uns mit 5 Sternen</string>
+</resources>

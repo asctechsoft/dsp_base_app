@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">என்ன தவறு நடந்தது என்பதை நமக்கு சொல்லுங்கள், நாங்கள் அதை சரிசெய்வோம்.</string>
+    <string name="new_txtid_rate_app_later">நான் பிறகு செய்வேன்</string>
+    <string name="new_txtid_rate_app_content_new_1">நாங்கள் மிகவும் கடினமாக உழைத்து, அப்பை தினமும் சிறப்பாக மாற்றுவதற்காக எப்போதும் முயற்சி செய்கிறோம். ஸ்டோரில் நல்ல மதிப்பீடு கொடுத்து நம்மை ஊக்குவிக்கவும், அதனால் உங்களுக்காக அப்பை இன்னும் சிறப்பாக்கலாம்.</string>
+    <string name="new_txtid_rate_app_content_new_2">நன்றி! நல்ல நாள்!</string>
+    <string name="new_txtid_rate_me_5_star">எனக்கு 5 நட்சத்திரங்கள் தரவும்</string>
+    <string name="new_txtid_later">பின்னர்</string>
+    <string name="new_txtid_rating_dialog_feedback_title">பின்னூட்டம் அளிக்கவும்</string>
+    <string name="new_txtid_dislike">இல்லை, பிடிக்கவில்லை</string>
+    <string name="new_txtid_rating_bar">மதிப்பீட்டு பட்டை</string>
+    <string name="rate_me_the_best_we_can_get">நாம் பெறக்கூடிய சிறந்தது</string>
+    <string name="rate_me_rate_us_on_google_play">Google Play இல் எங்களை மதிப்பிடவும்</string>
+    <string name="rate_me_rate_us_on_appstore">ஆப் ஸ்டோரில் எங்களை மதிப்பிடவும்</string>
+    <string name="rate_me_rate_us">எங்களை மதிப்பிடுங்கள்</string>
+    <string name="rate_me_not_really">அப்படியில்லை</string>
+    <string name="rate_me_share_feedback">பின்னூட்டம் பகிரவும்</string>
+    <string name="rate_me_oh_no">ஓ, இல்லை!</string>
+    <string name="rate_me_thats_great">அருமை!</string>
+    <string name="rate_me_we_love_it">இது நமக்கு பிடித்திருக்கு!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">உங்கள் கருத்துக்கு நன்றி!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">உங்கள் அனுபவத்தை அறிந்து வருந்துகிறோம்.</string>
+    <string name="rate_me_please_leave_us_some_feedback">தயவுசெய்து எங்களுக்கு சில கருத்துக்களை வழங்கவும்.</string>
+    <string name="rate_me_thank_you_for_your_rating">உங்கள் மதிப்பீட்டிற்கு நன்றி!</string>
+    <string name="rate_me_5_stars_message">இந்த ஆப் உங்களுக்கு பிடித்திருந்தால், தயவுசெய்து நமக்கு 5-நட்சத்திர மதிப்பீட்டை வழங்குவதை பரிசீலிக்கவும். உங்கள் கருத்து நாங்கள் தொடர்ந்து மேம்படுத்துவதற்கான சிறந்த ஊக்கமாகும்.</string>
+    <string name="rate_me_5_stars_later_btn">பின்னர்</string>
+    <string name="rate_me_5_stars_rate_btn">எங்களுக்கு 5 நட்சத்திரங்கள் கொடுங்கள்</string>
+</resources>

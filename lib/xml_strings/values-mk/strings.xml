@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Предложете ни што тргна наопаку и ние ќе работиме на тоа.</string>
+    <string name="new_txtid_rate_app_later">Ќе го направам подоцна</string>
+    <string name="new_txtid_rate_app_content_new_1">Работиме многу напорно и секогаш се трудиме да ја подобруваме апликацијата секој ден. Ве молиме охрабрете нѐ со добар рејтинг во продавницата за да ја направиме апликацијата уште подобра за вас.</string>
+    <string name="new_txtid_rate_app_content_new_2">Ви благодарам и имајте пријатен ден!</string>
+    <string name="new_txtid_rate_me_5_star">Оцени ме со 5 ѕвезди</string>
+    <string name="new_txtid_later">Подоцна</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Дајте Повратни Информации</string>
+    <string name="new_txtid_dislike">Не, Не ми се допаѓа</string>
+    <string name="new_txtid_rating_bar">Лента за оценување</string>
+    <string name="rate_me_the_best_we_can_get">Најдоброто Што Можеме Да Го Добиеме</string>
+    <string name="rate_me_rate_us_on_google_play">Оценете нѐ на Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Оценете нѐ на App Store</string>
+    <string name="rate_me_rate_us">Оценете нè</string>
+    <string name="rate_me_not_really">Не баш</string>
+    <string name="rate_me_share_feedback">Споделете повратни информации</string>
+    <string name="rate_me_oh_no">О, не!</string>
+    <string name="rate_me_thats_great">Тоа е одлично!</string>
+    <string name="rate_me_we_love_it">Го обожаваме!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Ви благодариме за вашето мислење!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Жал ни е што го имавте ова искуство.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Ве молиме оставете ни повратни информации.</string>
+    <string name="rate_me_thank_you_for_your_rating">Ви благодариме за вашата оцена!</string>
+    <string name="rate_me_5_stars_message">Ако ви се допаѓа апликацијата, ве молиме оценете нѐ со 5 ѕвезди. Вашите повратни информации се одлична мотивација да продолжиме да се подобруваме.</string>
+    <string name="rate_me_5_stars_later_btn">Подоцна</string>
+    <string name="rate_me_5_stars_rate_btn">Оценете ни со 5 ѕвезди</string>
+</resources>

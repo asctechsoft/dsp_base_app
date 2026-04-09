@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Predlagajte nam, kaj je šlo narobe, in delali bomo na tem.</string>
+    <string name="new_txtid_rate_app_later">Bom naredil kasneje</string>
+    <string name="new_txtid_rate_app_content_new_1">Zelo se trudimo in vedno poskušamo izboljšati aplikacijo vsak dan. Prosimo, podprite nas z dobro oceno v trgovini, da jo bomo lahko še izboljšali za vas.</string>
+    <string name="new_txtid_rate_app_content_new_2">Hvala in lep dan!</string>
+    <string name="new_txtid_rate_me_5_star">Oceni me s 5 zvezdicami</string>
+    <string name="new_txtid_later">Kasneje</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Pošlji Povratne Informacije</string>
+    <string name="new_txtid_dislike">Ne, Ne maram</string>
+    <string name="new_txtid_rating_bar">Vrstica ocen</string>
+    <string name="rate_me_the_best_we_can_get">Najboljše, Kar Lahko Dobimo</string>
+    <string name="rate_me_rate_us_on_google_play">Ocenite nas na Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Ocenite nas v App Store</string>
+    <string name="rate_me_rate_us">Ocenite nas</string>
+    <string name="rate_me_not_really">Ne ravno</string>
+    <string name="rate_me_share_feedback">Delite povratne informacije</string>
+    <string name="rate_me_oh_no">Oh, ne!</string>
+    <string name="rate_me_thats_great">To je super!</string>
+    <string name="rate_me_we_love_it">Obožujemo to!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Hvala za vaše povratne informacije!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Žal nam je, da imate takšno izkušnjo.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Prosimo, pustite nam povratne informacije.</string>
+    <string name="rate_me_thank_you_for_your_rating">Hvala za vašo oceno!</string>
+    <string name="rate_me_5_stars_message">Če vam je aplikacija všeč, razmislite o tem, da nas ocenite s 5 zvezdicami. Vaše povratne informacije so nam odlična motivacija za nadaljnje izboljšave.</string>
+    <string name="rate_me_5_stars_later_btn">Kasneje</string>
+    <string name="rate_me_5_stars_rate_btn">Ocenite nas s 5 zvezdicami</string>
+</resources>

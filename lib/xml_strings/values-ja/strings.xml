@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">問題点をご指摘いただければ、改善に努めます。</string>
+    <string name="new_txtid_rate_app_later">後でやります</string>
+    <string name="new_txtid_rate_app_content_new_1">私たちは日々、アプリをより良くするために一生懸命努力しています。ストアで良い評価をいただけると、私たちの励みになり、さらに良いアプリを作ることができます。ぜひ応援よろしくお願いします。</string>
+    <string name="new_txtid_rate_app_content_new_2">ありがとうございます。良い一日を！</string>
+    <string name="new_txtid_rate_me_5_star">5つ星で評価してください</string>
+    <string name="new_txtid_later">後で</string>
+    <string name="new_txtid_rating_dialog_feedback_title">フィードバックを送る</string>
+    <string name="new_txtid_dislike">いいえ、嫌い</string>
+    <string name="new_txtid_rating_bar">評価バー</string>
+    <string name="rate_me_the_best_we_can_get">現状で最善</string>
+    <string name="rate_me_rate_us_on_google_play">Google Playで評価してください</string>
+    <string name="rate_me_rate_us_on_appstore">App Storeで評価してください</string>
+    <string name="rate_me_rate_us">評価してください</string>
+    <string name="rate_me_not_really">そうでもない</string>
+    <string name="rate_me_share_feedback">フィードバックを共有</string>
+    <string name="rate_me_oh_no">ああ、いやだ！</string>
+    <string name="rate_me_thats_great">それは素晴らしい！</string>
+    <string name="rate_me_we_love_it">最高!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">フィードバックありがとうございます！</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">ご不快な思いをさせてしまい申し訳ございません。</string>
+    <string name="rate_me_please_leave_us_some_feedback">フィードバックをお寄せください。</string>
+    <string name="rate_me_thank_you_for_your_rating">評価していただきありがとうございます！</string>
+    <string name="rate_me_5_stars_message">もしアプリをお楽しみいただけましたら、5つ星の評価をお願いいたします。皆様からのフィードバックは、私たちが改善を続けるための大きなモチベーションとなります。</string>
+    <string name="rate_me_5_stars_later_btn">後で</string>
+    <string name="rate_me_5_stars_rate_btn">5つ星で評価してください</string>
+</resources>

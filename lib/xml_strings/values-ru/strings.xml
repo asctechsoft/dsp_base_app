@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Подскажите, что пошло не так, и мы это исправим.</string>
+    <string name="new_txtid_rate_app_later">Я сделаю позже</string>
+    <string name="new_txtid_rate_app_content_new_1">Мы очень усердно работаем и всегда стараемся сделать приложение лучше с каждым днем. Пожалуйста, поддержите нас, поставив хорошую оценку в магазине, чтобы мы могли сделать приложение еще лучше для вас.</string>
+    <string name="new_txtid_rate_app_content_new_2">Спасибо и хорошего дня!</string>
+    <string name="new_txtid_rate_me_5_star">Оцените меня на 5 звезд</string>
+    <string name="new_txtid_later">Позже</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Оставить Отзыв</string>
+    <string name="new_txtid_dislike">Нет, Не нравится</string>
+    <string name="new_txtid_rating_bar">Шкала рейтинга</string>
+    <string name="rate_me_the_best_we_can_get">Лучшее, Что Мы Можем Получить</string>
+    <string name="rate_me_rate_us_on_google_play">Оцените нас в Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Оцените нас в App Store</string>
+    <string name="rate_me_rate_us">Оцените нас</string>
+    <string name="rate_me_not_really">Не совсем</string>
+    <string name="rate_me_share_feedback">Поделиться отзывом</string>
+    <string name="rate_me_oh_no">О, нет!</string>
+    <string name="rate_me_thats_great">Отлично!</string>
+    <string name="rate_me_we_love_it">Нам очень нравится!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Спасибо за ваш отзыв!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Нам жаль узнать о вашем опыте.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Пожалуйста, оставьте отзыв.</string>
+    <string name="rate_me_thank_you_for_your_rating">Спасибо за вашу оценку!</string>
+    <string name="rate_me_5_stars_message">Если вам нравится приложение, пожалуйста, поставьте нам 5-звездочный рейтинг. Ваши отзывы — отличная мотивация для нас продолжать совершенствоваться.</string>
+    <string name="rate_me_5_stars_later_btn">Позже</string>
+    <string name="rate_me_5_stars_rate_btn">Оцените нас на 5 звезд</string>
+</resources>

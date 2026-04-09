@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Iradoki iezaguzu zer oker joan den eta horretan lan egingo dugu.</string>
+    <string name="new_txtid_rate_app_later">Geroago egingo dut</string>
+    <string name="new_txtid_rate_app_content_new_1">Gogor lan egiten dugu eta egunero ahalegintzen gara aplikazioa hobetzen. Mesedez, anima gaitzazu Store-n balorazio onak emanez, aplikazioa are hobea izan dadin zuretzat.</string>
+    <string name="new_txtid_rate_app_content_new_2">Eskerrik asko eta egun ona izan!</string>
+    <string name="new_txtid_rate_me_5_star">Baloratu 5 izarrekin</string>
+    <string name="new_txtid_later">Geroago</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Eman Iritzia</string>
+    <string name="new_txtid_dislike">Ez, Ez zait gustatzen</string>
+    <string name="new_txtid_rating_bar">Balorazio barra</string>
+    <string name="rate_me_the_best_we_can_get">Lortu Dezakegun Onena</string>
+    <string name="rate_me_rate_us_on_google_play">Balora gaitzazu Google Play-en</string>
+    <string name="rate_me_rate_us_on_appstore">Baloratu gaitzazu App Store-n</string>
+    <string name="rate_me_rate_us">Baloratu gaitzazu</string>
+    <string name="rate_me_not_really">Ez benetan</string>
+    <string name="rate_me_share_feedback">Partekatu iritzia</string>
+    <string name="rate_me_oh_no">Oh, ez!</string>
+    <string name="rate_me_thats_great">Hori bikaina da!</string>
+    <string name="rate_me_we_love_it">Oso gustuko dugu!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Eskerrik asko zure iritziagatik!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Sentitzen dugu zure esperientzia ezagutzea.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Utzi iezaguzu iritzia.</string>
+    <string name="rate_me_thank_you_for_your_rating">Eskerrik asko zure balorazioagatik!</string>
+    <string name="rate_me_5_stars_message">Aplikazioa gustuko baduzu, mesedez, eman 5 izarreko balorazioa. Zure iritzia motibazio handia da hobetzen jarraitzeko.</string>
+    <string name="rate_me_5_stars_later_btn">Geroago</string>
+    <string name="rate_me_5_stars_rate_btn">Baloratu iezaguzu 5 izar</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Navrhněte nám, co se pokazilo, a my na tom budeme pracovat.</string>
+    <string name="new_txtid_rate_app_later">Udělám později</string>
+    <string name="new_txtid_rate_app_content_new_1">Usilovně pracujeme a neustále se snažíme aplikaci den ode dne zlepšovat. Podpořte nás prosím dobrým hodnocením v obchodě, abychom pro vás mohli aplikaci ještě vylepšit.</string>
+    <string name="new_txtid_rate_app_content_new_2">Děkuji a hezký den!</string>
+    <string name="new_txtid_rate_me_5_star">Ohodnoť mě 5 hvězdičkami</string>
+    <string name="new_txtid_later">Později</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Poskytnout Zpětnou Vazbu</string>
+    <string name="new_txtid_dislike">Ne, Nelíbí se mi</string>
+    <string name="new_txtid_rating_bar">Hodnotící lišta</string>
+    <string name="rate_me_the_best_we_can_get">To Nejlepší, Co Můžeme Získat</string>
+    <string name="rate_me_rate_us_on_google_play">Ohodnoťte nás na Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Ohodnoťte nás v App Store</string>
+    <string name="rate_me_rate_us">Ohodnoťte nás</string>
+    <string name="rate_me_not_really">Ne opravdu</string>
+    <string name="rate_me_share_feedback">Sdílet zpětnou vazbu</string>
+    <string name="rate_me_oh_no">Oh, ne!</string>
+    <string name="rate_me_thats_great">To je skvělé!</string>
+    <string name="rate_me_we_love_it">Milujeme to!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Děkujeme za vaši zpětnou vazbu!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Je nám líto, že máte takovou zkušenost.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Prosím, zanechte nám nějakou zpětnou vazbu.</string>
+    <string name="rate_me_thank_you_for_your_rating">Děkujeme za vaše hodnocení!</string>
+    <string name="rate_me_5_stars_message">Pokud se vám aplikace líbí, zvažte prosím udělení 5hvězdičkového hodnocení. Vaše zpětná vazba je pro nás skvělou motivací k neustálému zlepšování.</string>
+    <string name="rate_me_5_stars_later_btn">Později</string>
+    <string name="rate_me_5_stars_rate_btn">Ohodnoťte nás 5 hvězdičkami</string>
+</resources>

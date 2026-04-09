@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">به ما بگویید چه اشتباهی رخ داده و ما بر روی آن کار خواهیم کرد.</string>
+    <string name="new_txtid_rate_app_later">بعداً انجام می‌دهم</string>
+    <string name="new_txtid_rate_app_content_new_1">ما خیلی سخت کار می‌کنیم و همیشه تلاش می‌کنیم تا برنامه را هر روز بهتر و بهتر کنیم. لطفا با امتیاز دادن خوب در استور ما را تشویق کنید تا برنامه را برای شما بهتر هم بسازیم.</string>
+    <string name="new_txtid_rate_app_content_new_2">متشکرم و روز خوبی داشته باشید!</string>
+    <string name="new_txtid_rate_me_5_star">به من 5 ستاره امتیاز دهید</string>
+    <string name="new_txtid_later">بعداً</string>
+    <string name="new_txtid_rating_dialog_feedback_title">بازخورد بدهید</string>
+    <string name="new_txtid_dislike">نه، دوست ندارم</string>
+    <string name="new_txtid_rating_bar">نوار امتیاز</string>
+    <string name="rate_me_the_best_we_can_get">بهترین چیزی که می‌توانیم به دست آوریم</string>
+    <string name="rate_me_rate_us_on_google_play">به ما در گوگل پلی امتیاز دهید</string>
+    <string name="rate_me_rate_us_on_appstore">به ما در اپ استور امتیاز دهید</string>
+    <string name="rate_me_rate_us">به ما امتیاز بدهید</string>
+    <string name="rate_me_not_really">نه واقعاً</string>
+    <string name="rate_me_share_feedback">بازخورد را به اشتراک بگذارید</string>
+    <string name="rate_me_oh_no">اوه، نه!</string>
+    <string name="rate_me_thats_great">خیلی عالیه!</string>
+    <string name="rate_me_we_love_it">عاشقشیم!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">از بازخورد شما متشکریم!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">از اینکه چنین تجربه‌ای داشتید، متاسفیم.</string>
+    <string name="rate_me_please_leave_us_some_feedback">لطفا چند بازخورد برای ما بگذارید.</string>
+    <string name="rate_me_thank_you_for_your_rating">از اینکه امتیاز دادید، سپاسگزاریم!</string>
+    <string name="rate_me_5_stars_message">اگر از برنامه لذت می‌برید، لطفاً به ما امتیاز ۵ ستاره بدهید. بازخورد شما انگیزه بزرگی برای ادامه بهبود ماست.</string>
+    <string name="rate_me_5_stars_later_btn">بعدا</string>
+    <string name="rate_me_5_stars_rate_btn">ما را ۵ ستاره ارزیابی کنید</string>
+</resources>

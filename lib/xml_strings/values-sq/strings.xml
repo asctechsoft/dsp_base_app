@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Na sugjeroni se çfarë shkoi keq dhe ne do të punojmë për këtë.</string>
+    <string name="new_txtid_rate_app_later">Do ta bëj më vonë</string>
+    <string name="new_txtid_rate_app_content_new_1">Ne punojmë shumë dhe përpiqemi gjithmonë të bëjmë aplikacionin çdo ditë e më të mirë. Ju lutemi na inkurajoni duke na vlerësuar me notë të mirë në Store, në mënyrë që ta bëjmë aplikacionin edhe më të mirë për ju.</string>
+    <string name="new_txtid_rate_app_content_new_2">Faleminderit dhe Keni një ditë të mbarë!</string>
+    <string name="new_txtid_rate_me_5_star">Më vlerëso me 5 yje</string>
+    <string name="new_txtid_later">Më vonë</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Jepni Feedback</string>
+    <string name="new_txtid_dislike">Jo, Nuk më pëlqen</string>
+    <string name="new_txtid_rating_bar">Shkalla e vlerësimit</string>
+    <string name="rate_me_the_best_we_can_get">Më e Mira Që Mund Të Marrim</string>
+    <string name="rate_me_rate_us_on_google_play">Na vlerësoni në Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Na vlerësoni në App Store</string>
+    <string name="rate_me_rate_us">Na vlerësoni</string>
+    <string name="rate_me_not_really">Jo vërtet</string>
+    <string name="rate_me_share_feedback">Ndani mendimet tuaja</string>
+    <string name="rate_me_oh_no">Oh, jo!</string>
+    <string name="rate_me_thats_great">Shkëlqyeshëm!</string>
+    <string name="rate_me_we_love_it">Na pëlqen shumë!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Faleminderit për feedback-un tuaj!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Na vjen keq të dëgjojmë për përvojën tuaj.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Ju lutemi na lini disa reagime.</string>
+    <string name="rate_me_thank_you_for_your_rating">Faleminderit për vlerësimin tuaj!</string>
+    <string name="rate_me_5_stars_message">Nëse e shijoni aplikacionin, ju lutemi merrni në konsideratë dhënien e një vlerësimi me 5 yje. Përshtypjet tuaja janë një motivim i shkëlqyer për ne për të vazhduar përmirësimin.</string>
+    <string name="rate_me_5_stars_later_btn">Më vonë</string>
+    <string name="rate_me_5_stars_rate_btn">Na vlerësoni me 5 yje</string>
+</resources>

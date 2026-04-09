@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Підкажіть нам, що пішло не так, і ми це виправимо.</string>
+    <string name="new_txtid_rate_app_later">Я зроблю пізніше</string>
+    <string name="new_txtid_rate_app_content_new_1">Ми дуже старанно працюємо і завжди намагаємося зробити додаток кращим з кожним днем. Будь ласка, підтримайте нас, залишивши хорошу оцінку в магазині, щоб ми могли зробити додаток ще кращим для вас.</string>
+    <string name="new_txtid_rate_app_content_new_2">Дякую та гарного дня!</string>
+    <string name="new_txtid_rate_me_5_star">Оцініть мене на 5 зірок</string>
+    <string name="new_txtid_later">Пізніше</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Надати Відгук</string>
+    <string name="new_txtid_dislike">Ні, Не подобається</string>
+    <string name="new_txtid_rating_bar">Панель рейтингу</string>
+    <string name="rate_me_the_best_we_can_get">Найкраще, Що Ми Можемо Отримати</string>
+    <string name="rate_me_rate_us_on_google_play">Оцініть нас у Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Оцініть нас в App Store</string>
+    <string name="rate_me_rate_us">Оцініть нас</string>
+    <string name="rate_me_not_really">Не зовсім</string>
+    <string name="rate_me_share_feedback">Поділитися відгуком</string>
+    <string name="rate_me_oh_no">О, ні!</string>
+    <string name="rate_me_thats_great">Це чудово!</string>
+    <string name="rate_me_we_love_it">Ми це любимо!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Дякуємо за ваш відгук!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Нам шкода дізнатися про ваш досвід.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Будь ласка, залиште нам відгук.</string>
+    <string name="rate_me_thank_you_for_your_rating">Дякуємо за вашу оцінку!</string>
+    <string name="rate_me_5_stars_message">Якщо вам подобається додаток, будь ласка, оцініть його на 5 зірок. Ваш відгук – чудова мотивація для нас продовжувати вдосконалюватися.</string>
+    <string name="rate_me_5_stars_later_btn">Пізніше</string>
+    <string name="rate_me_5_stars_rate_btn">Оцініть нас на 5 зірок</string>
+</resources>

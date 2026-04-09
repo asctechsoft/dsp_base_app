@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">اقترح علينا ما الخطأ الذي حدث وسنعمل على إصلاحه.</string>
+    <string name="new_txtid_rate_app_later">سأفعل لاحقًا</string>
+    <string name="new_txtid_rate_app_content_new_1">نحن نعمل بجد ونسعى دائمًا لتقديم أفضل ما لدينا لجعل التطبيق أفضل وأفضل كل يوم. يرجى تشجيعنا بتقييم جيد في المتجر حتى نتمكن من جعل التطبيق أفضل لك.</string>
+    <string name="new_txtid_rate_app_content_new_2">شكرا لك و طاب يومك!</string>
+    <string name="new_txtid_rate_me_5_star">قيّمني 5 نجوم</string>
+    <string name="new_txtid_later">لاحقًا</string>
+    <string name="new_txtid_rating_dialog_feedback_title">أرسل ملاحظاتك</string>
+    <string name="new_txtid_dislike">لا، غير معجب</string>
+    <string name="new_txtid_rating_bar">شريط التقييم</string>
+    <string name="rate_me_the_best_we_can_get">أفضل ما يمكننا الحصول عليه</string>
+    <string name="rate_me_rate_us_on_google_play">قيمنا على جوجل بلاي</string>
+    <string name="rate_me_rate_us_on_appstore">قيمنا على متجر التطبيقات</string>
+    <string name="rate_me_rate_us">قيمنا</string>
+    <string name="rate_me_not_really">ليس حقًا</string>
+    <string name="rate_me_share_feedback">شارك ملاحظاتك</string>
+    <string name="rate_me_oh_no">أوه، لا!</string>
+    <string name="rate_me_thats_great">هذا رائع!</string>
+    <string name="rate_me_we_love_it">نحن نحبه!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">شكرا لك على ملاحظاتك!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">يؤسفنا معرفة تجربتك.</string>
+    <string name="rate_me_please_leave_us_some_feedback">من فضلك، اترك لنا بعض الملاحظات.</string>
+    <string name="rate_me_thank_you_for_your_rating">شكراً لتقييمك!</string>
+    <string name="rate_me_5_stars_message">إذا أعجبك التطبيق، يرجى التفكير في منحنا تقييم 5 نجوم. ملاحظاتك هي حافز كبير لنا للاستمرار في التحسين.</string>
+    <string name="rate_me_5_stars_later_btn">لاحقًا</string>
+    <string name="rate_me_5_stars_rate_btn">قيِّمنا بخمس نجوم</string>
+</resources>

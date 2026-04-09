@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Խնդրում ենք մեզ առաջարկել, թե ինչ սխալ է տեղի ունեցել, և մենք կաշխատենք դրա վրա:</string>
+    <string name="new_txtid_rate_app_later">Ես կանեմ ավելի ուշ</string>
+    <string name="new_txtid_rate_app_content_new_1">Մենք շատ ենք աշխատում և միշտ ձգտում ենք հավելվածն օրեցօր ավելի լավը դարձնել։ Խնդրում ենք քաջալերել մեզ՝ Գրախանութում լավ գնահատական տալով, որպեսզի մենք հավելվածն էլ ավելի լավը դարձնենք ձեզ համար։</string>
+    <string name="new_txtid_rate_app_content_new_2">Շնորհակալություն և լավ օր!</string>
+    <string name="new_txtid_rate_me_5_star">Գնահատեք ինձ 5 աստղ</string>
+    <string name="new_txtid_later">Հետո</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Տվեք կարծիք</string>
+    <string name="new_txtid_dislike">Ոչ, Չհավանել</string>
+    <string name="new_txtid_rating_bar">Գնահատման սանդղակ</string>
+    <string name="rate_me_the_best_we_can_get">Մեզ հասանելի լավագույնը</string>
+    <string name="rate_me_rate_us_on_google_play">Գնահատեք մեզ Google Play-ում</string>
+    <string name="rate_me_rate_us_on_appstore">Գնահատե՛ք մեզ App Store-ում</string>
+    <string name="rate_me_rate_us">Գնահատեք մեզ</string>
+    <string name="rate_me_not_really">Այնքան էլ չէ</string>
+    <string name="rate_me_share_feedback">Կիսվեք կարծիքով</string>
+    <string name="rate_me_oh_no">Օհ, ոչ!</string>
+    <string name="rate_me_thats_great">Հիանալի է:</string>
+    <string name="rate_me_we_love_it">Մենք դա սիրում ենք!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Շնորհակալություն ձեր կարծիքի համար!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Մենք ցավում ենք, որ ձեր փորձը այդպիսին է:</string>
+    <string name="rate_me_please_leave_us_some_feedback">Խնդրում ենք թողնել կարծիք։</string>
+    <string name="rate_me_thank_you_for_your_rating">Շնորհակալություն ձեր գնահատականի համար!</string>
+    <string name="rate_me_5_stars_message">Եթե հավանում եք հավելվածը, խնդրում ենք գնահատել այն 5 աստղով: Ձեր կարծիքը մեծ խթան է մեզ համար՝ շարունակել բարելավվել:</string>
+    <string name="rate_me_5_stars_later_btn">Հետո</string>
+    <string name="rate_me_5_stars_rate_btn">Գնահատեք մեզ 5 աստղով</string>
+</resources>

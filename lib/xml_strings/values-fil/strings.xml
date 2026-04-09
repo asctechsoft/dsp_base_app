@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Ipaalam sa amin kung ano ang problema at aayusin namin ito.</string>
+    <string name="new_txtid_rate_app_later">Gagawin ko mamaya</string>
+    <string name="new_txtid_rate_app_content_new_1">Nagsusumikap kami nang husto at palaging ginagawa ang aming makakaya upang pagbutihin ang app araw-araw.  Hinihikayat namin kayo na bigyan kami ng magandang rating sa Store upang mas lalo pa naming pagandahin ang app para sa inyo.</string>
+    <string name="new_txtid_rate_app_content_new_2">Salamat at magandang araw!</string>
+    <string name="new_txtid_rate_me_5_star">I-rate ako ng 5 bituin</string>
+    <string name="new_txtid_later">Mamaya</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Magbigay ng Feedback</string>
+    <string name="new_txtid_dislike">Hindi, Ayaw</string>
+    <string name="new_txtid_rating_bar">Rating bar</string>
+    <string name="rate_me_the_best_we_can_get">Ang Pinakamahusay na Makukuha Natin</string>
+    <string name="rate_me_rate_us_on_google_play">I-rate kami sa Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">I-rate kami sa App Store</string>
+    <string name="rate_me_rate_us">I-rate kami</string>
+    <string name="rate_me_not_really">Hindi talaga</string>
+    <string name="rate_me_share_feedback">Magbahagi ng puna</string>
+    <string name="rate_me_oh_no">Oh, hindi!</string>
+    <string name="rate_me_thats_great">Galing!</string>
+    <string name="rate_me_we_love_it">Gustong-gusto namin ito!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Salamat sa iyong puna!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Ikinalulungkot naming malaman ang iyong karanasan.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Mag-iwan po kayo ng puna.</string>
+    <string name="rate_me_thank_you_for_your_rating">Salamat sa iyong pagsusuri!</string>
+    <string name="rate_me_5_stars_message">Kung masiyahan ka sa app, mangyaring isaalang-alang ang pagbibigay sa amin ng isang 5-star na rating. Ang iyong puna ay isang mahusay na pagganyak para sa amin upang patuloy na mapabuti.</string>
+    <string name="rate_me_5_stars_later_btn">Mamaya</string>
+    <string name="rate_me_5_stars_rate_btn">I-rate kami ng 5 bituin</string>
+</resources>

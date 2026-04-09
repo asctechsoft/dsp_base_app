@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">ແນະນຳພວກເຮົາວ່າອັນໃດຜິດພາດ ແລະພວກເຮົາຈະແກ້ໄຂ.</string>
+    <string name="new_txtid_rate_app_later">ຂ້ອຍຈະເຮັດໃນພາຍຫລັງ</string>
+    <string name="new_txtid_rate_app_content_new_1">ພວກເຮົາເຮັດວຽກໜັກຫຼາຍ ແລະ ພະຍາຍາມສຸດຄວາມສາມາດສະເໝີ ເພື່ອເຮັດໃຫ້ແອັບດີຂຶ້ນເລື້ອຍໆທຸກໆມື້. ກະລຸນາເປັນກຳລັງໃຈໃຫ້ພວກເຮົາ ໂດຍການໃຫ້ຄະແນນທີ່ດີໃນ Store ເພື່ອວ່າພວກເຮົາຈະເຮັດໃຫ້ແອັບດີຂຶ້ນກວ່າເກົ່າສຳລັບທ່ານ.</string>
+    <string name="new_txtid_rate_app_content_new_2">ຂອບໃຈແລະຂໍໃຫ້ມື້ດີ!</string>
+    <string name="new_txtid_rate_me_5_star">ໃຫ້ຄະແນນຂ້ອຍ 5 ດາວ</string>
+    <string name="new_txtid_later">ພາຍຫຼັງ</string>
+    <string name="new_txtid_rating_dialog_feedback_title">ໃຫ້ຄຳຄິດເຫັນ</string>
+    <string name="new_txtid_dislike">ບໍ່, ບໍ່ມັກ</string>
+    <string name="new_txtid_rating_bar">ແຖບໃຫ້ຄະແນນ</string>
+    <string name="rate_me_the_best_we_can_get">ສິ່ງທີ່ດີທີ່ສຸດທີ່ພວກເຮົາສາມາດໄດ້ຮັບ</string>
+    <string name="rate_me_rate_us_on_google_play">ໃຫ້ຄະແນນພວກເຮົາໃນ Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">ໃຫ້ຄະແນນພວກເຮົາໃນ App Store</string>
+    <string name="rate_me_rate_us">ໃຫ້ຄະແນນພວກເຮົາ</string>
+    <string name="rate_me_not_really">ບໍ່​ແທ້</string>
+    <string name="rate_me_share_feedback">ແບ່ງປັນຄວາມຄິດເຫັນ</string>
+    <string name="rate_me_oh_no">ໂອ້, ບໍ່!</string>
+    <string name="rate_me_thats_great">ນັ້ນແມ່ນສິ່ງທີ່ຍິ່ງໃຫຍ່!</string>
+    <string name="rate_me_we_love_it">ພວກເຮົາຮັກມັນ!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">ຂອບໃຈສໍາລັບຄໍາຄິດເຫັນຂອງທ່ານ!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">ພວກເຮົາຂໍອະໄພສໍາລັບປະສົບການຂອງທ່ານ.</string>
+    <string name="rate_me_please_leave_us_some_feedback">ກະລຸນາໃຫ້ຄຳຄິດເຫັນແກ່ພວກເຮົາແດ່.</string>
+    <string name="rate_me_thank_you_for_your_rating">ຂອບໃຈສໍາລັບການໃຫ້ຄະແນນຂອງທ່ານ!</string>
+    <string name="rate_me_5_stars_message">ຖ້າທ່ານມັກແອັບນີ້, ກະລຸນາພິຈາລະນາໃຫ້ຄະແນນ 5 ດາວແກ່ພວກເຮົາ. ຄຳຄິດເຫັນຂອງທ່ານເປັນແຮງຈູງໃຈອັນດີໃຫ້ພວກເຮົາສືບຕໍ່ປັບປຸງ.</string>
+    <string name="rate_me_5_stars_later_btn">ພາຍຫຼັງ</string>
+    <string name="rate_me_5_stars_rate_btn">ໃຫ້ຄະແນນພວກເຮົາ 5 ດາວ</string>
+</resources>

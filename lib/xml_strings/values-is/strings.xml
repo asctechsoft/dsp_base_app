@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Segðu okkur hvað fór úrskeiðis og við munum vinna í því.</string>
+    <string name="new_txtid_rate_app_later">Ég geri það seinna</string>
+    <string name="new_txtid_rate_app_content_new_1">Við leggjum hart að okkur og reynum alltaf okkar besta til að gera appið betra og betra á hverjum degi. Vinsamlegast hvetjið okkur áfram með því að gefa góða einkunn í versluninni svo við getum gert appið enn betra fyrir ykkur.</string>
+    <string name="new_txtid_rate_app_content_new_2">Takk og hafðu góðan dag!</string>
+    <string name="new_txtid_rate_me_5_star">Gefðu mér 5 stjörnur</string>
+    <string name="new_txtid_later">Seinna</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Gefðu Endurgjöf</string>
+    <string name="new_txtid_dislike">Nei, Ekki líkar við þetta</string>
+    <string name="new_txtid_rating_bar">Einkunnastika</string>
+    <string name="rate_me_the_best_we_can_get">Það Besta Sem Við Getum Fengið</string>
+    <string name="rate_me_rate_us_on_google_play">Gefðu okkur einkunn á Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Gefðu okkur einkunn í App Store</string>
+    <string name="rate_me_rate_us">Gefðu okkur einkunn</string>
+    <string name="rate_me_not_really">Ekki alveg</string>
+    <string name="rate_me_share_feedback">Deildu endurgjöf</string>
+    <string name="rate_me_oh_no">Ó, nei!</string>
+    <string name="rate_me_thats_great">Frábært!</string>
+    <string name="rate_me_we_love_it">Við elskum það!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Takk fyrir endurgjöfina!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Við erum leið að heyra um reynslu þína.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Vinsamlegast láttu okkur fá athugasemdir.</string>
+    <string name="rate_me_thank_you_for_your_rating">Takk fyrir einkunnina þína!</string>
+    <string name="rate_me_5_stars_message">Ef þér líkar vel við appið, vinsamlegast gefðu okkur 5 stjörnu einkunn. Ábendingar þínar eru okkur mikil hvatning til að halda áfram að bæta okkur.</string>
+    <string name="rate_me_5_stars_later_btn">Seinna</string>
+    <string name="rate_me_5_stars_rate_btn">Gefðu okkur 5 stjörnur</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">ਸਾਨੂੰ ਸੁਝਾਅ ਦਿਓ ਕਿ ਕੀ ਗਲਤ ਹੋਇਆ ਅਤੇ ਅਸੀਂ ਇਸ \'ਤੇ ਕੰਮ ਕਰਾਂਗੇ।</string>
+    <string name="new_txtid_rate_app_later">ਮੈਂ ਬਾਅਦ ਵਿੱਚ ਕਰਾਂਗਾ</string>
+    <string name="new_txtid_rate_app_content_new_1">ਅਸੀਂ ਬਹੁਤ ਮਿਹਨਤ ਕਰਦੇ ਹਾਂ ਅਤੇ ਐਪ ਨੂੰ ਹਰ ਰੋਜ਼ ਬਿਹਤਰ ਤੋਂ ਬਿਹਤਰ ਬਣਾਉਣ ਦੀ ਪੂਰੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ। ਕਿਰਪਾ ਕਰਕੇ ਸਟੋਰ ਵਿੱਚ ਚੰਗੀ ਰੇਟਿੰਗ ਦੇ ਕੇ ਸਾਡਾ ਉਤਸ਼ਾਹ ਵਧਾਓ ਤਾਂ ਜੋ ਅਸੀਂ ਤੁਹਾਡੇ ਲਈ ਐਪ ਨੂੰ ਹੋਰ ਵੀ ਬਿਹਤਰ ਬਣਾ ਸਕੀਏ।</string>
+    <string name="new_txtid_rate_app_content_new_2">ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਅਤੇ ਤੁਹਾਡਾ ਦਿਨ ਵਧੀਆ ਰਹੇ!</string>
+    <string name="new_txtid_rate_me_5_star">ਮੈਨੂੰ 5 ਸਟਾਰ ਦਿਓ</string>
+    <string name="new_txtid_later">ਬਾਅਦ ਵਿੱਚ</string>
+    <string name="new_txtid_rating_dialog_feedback_title">ਫੀਡਬੈਕ ਦਿਓ</string>
+    <string name="new_txtid_dislike">ਨਹੀਂ, ਨਾਪਸੰਦ</string>
+    <string name="new_txtid_rating_bar">ਰੇਟਿੰਗ ਬਾਰ</string>
+    <string name="rate_me_the_best_we_can_get">ਸਭ ਤੋਂ ਵਧੀਆ ਜੋ ਅਸੀਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹਾਂ</string>
+    <string name="rate_me_rate_us_on_google_play">Google Play \'ਤੇ ਸਾਨੂੰ ਰੇਟ ਕਰੋ</string>
+    <string name="rate_me_rate_us_on_appstore">ਐਪ ਸਟੋਰ \'ਤੇ ਸਾਨੂੰ ਰੇਟ ਕਰੋ</string>
+    <string name="rate_me_rate_us">ਸਾਨੂੰ ਰੇਟ ਕਰੋ</string>
+    <string name="rate_me_not_really">ਵਾਸਤਵ ਵਿੱਚ ਨਹੀਂ</string>
+    <string name="rate_me_share_feedback">ਫੀਡਬੈਕ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="rate_me_oh_no">ਓਹ, ਨਹੀਂ!</string>
+    <string name="rate_me_thats_great">ਇਹ ਬਹੁਤ ਵਧੀਆ ਹੈ!</string>
+    <string name="rate_me_we_love_it">ਸਾਨੂੰ ਇਹ ਬਹੁਤ ਪਸੰਦ ਹੈ!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">ਤੁਹਾਡੇ ਫੀਡਬੈਕ ਲਈ ਧੰਨਵਾਦ!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">ਸਾਨੂੰ ਤੁਹਾਡਾ ਤਜਰਬਾ ਜਾਣ ਕੇ ਦੁੱਖ ਹੋਇਆ।</string>
+    <string name="rate_me_please_leave_us_some_feedback">ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਕੁਝ ਫੀਡਬੈਕ ਦਿਓ।</string>
+    <string name="rate_me_thank_you_for_your_rating">ਤੁਹਾਡੀ ਰੇਟਿੰਗ ਲਈ ਧੰਨਵਾਦ!</string>
+    <string name="rate_me_5_stars_message">ਜੇਕਰ ਤੁਸੀਂ ਐਪ ਦਾ ਆਨੰਦ ਮਾਣਦੇ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ 5-ਤਾਰਾ ਰੇਟਿੰਗ ਦੇਣ ਬਾਰੇ ਵਿਚਾਰ ਕਰੋ। ਤੁਹਾਡਾ ਫੀਡਬੈਕ ਸਾਡੇ ਲਈ ਸੁਧਾਰ ਕਰਦੇ ਰਹਿਣ ਲਈ ਇੱਕ ਮਹਾਨ ਪ੍ਰੇਰਣਾ ਹੈ।</string>
+    <string name="rate_me_5_stars_later_btn">ਬਾਅਦ ਵਿੱਚ</string>
+    <string name="rate_me_5_stars_rate_btn">ਸਾਨੂੰ 5 ਤਾਰੇ ਦਿਓ</string>
+</resources>

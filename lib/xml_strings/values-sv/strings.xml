@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Föreslå vad som gick fel så ska vi åtgärda det.</string>
+    <string name="new_txtid_rate_app_later">Jag gör det senare</string>
+    <string name="new_txtid_rate_app_content_new_1">Vi jobbar väldigt hårt och försöker alltid vårt bästa för att göra appen bättre och bättre varje dag. Uppmuntra oss gärna genom att ge oss ett bra betyg i App Store så att vi kan göra appen ännu bättre för dig.</string>
+    <string name="new_txtid_rate_app_content_new_2">Tack och ha en bra dag!</string>
+    <string name="new_txtid_rate_me_5_star">Betygsätt mig 5 stjärnor</string>
+    <string name="new_txtid_later">Senare</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Ge Feedback</string>
+    <string name="new_txtid_dislike">Nej, Ogillar</string>
+    <string name="new_txtid_rating_bar">Betygsfält</string>
+    <string name="rate_me_the_best_we_can_get">Det Bästa Vi Kan Få</string>
+    <string name="rate_me_rate_us_on_google_play">Betygsätt oss på Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Betygsätt oss i App Store</string>
+    <string name="rate_me_rate_us">Betygsätt oss</string>
+    <string name="rate_me_not_really">Inte riktigt</string>
+    <string name="rate_me_share_feedback">Dela feedback</string>
+    <string name="rate_me_oh_no">Åh nej!</string>
+    <string name="rate_me_thats_great">Vad bra!</string>
+    <string name="rate_me_we_love_it">Vi älskar det!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Tack för din feedback!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Vi är ledsna att höra om din upplevelse.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Lämna gärna feedback.</string>
+    <string name="rate_me_thank_you_for_your_rating">Tack för ditt betyg!</string>
+    <string name="rate_me_5_stars_message">Om du gillar appen, överväg att ge oss ett 5-stjärnigt betyg. Din feedback är en stor motivation för oss att fortsätta förbättra oss.</string>
+    <string name="rate_me_5_stars_later_btn">Senare</string>
+    <string name="rate_me_5_stars_rate_btn">Betygsätt oss med 5 stjärnor</string>
+</resources>

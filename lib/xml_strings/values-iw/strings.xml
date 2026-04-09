@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">הצע לנו מה השתבש ואנחנו נעבוד על זה.</string>
+    <string name="new_txtid_rate_app_later">אני אעשה מאוחר יותר</string>
+    <string name="new_txtid_rate_app_content_new_1">אנו עובדים קשה מאוד ותמיד מנסים כמיטב יכולתנו לשפר את האפליקציה מיום ליום. אנא עודדו אותנו על ידי מתן דירוג טוב בחנות כדי שנוכל לשפר את האפליקציה עוד יותר עבורכם.</string>
+    <string name="new_txtid_rate_app_content_new_2">תודה ויום נעים!</string>
+    <string name="new_txtid_rate_me_5_star">דרג אותי 5 כוכבים</string>
+    <string name="new_txtid_later">אחר כך</string>
+    <string name="new_txtid_rating_dialog_feedback_title">תן משוב</string>
+    <string name="new_txtid_dislike">לא, לא אוהב</string>
+    <string name="new_txtid_rating_bar">סרגל דירוג</string>
+    <string name="rate_me_the_best_we_can_get">הכי טוב שאנחנו יכולים לקבל</string>
+    <string name="rate_me_rate_us_on_google_play">דרג אותנו ב-Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">דרג אותנו ב-App Store</string>
+    <string name="rate_me_rate_us">דרג אותנו</string>
+    <string name="rate_me_not_really">לא באמת</string>
+    <string name="rate_me_share_feedback">שתף משוב</string>
+    <string name="rate_me_oh_no">אוי לא!</string>
+    <string name="rate_me_thats_great">זה נהדר!</string>
+    <string name="rate_me_we_love_it">אנחנו אוהבים את זה!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">תודה על המשוב שלך!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">מצטערים לשמוע על החוויה שלך.</string>
+    <string name="rate_me_please_leave_us_some_feedback">אנא השאר לנו קצת משוב.</string>
+    <string name="rate_me_thank_you_for_your_rating">תודה על הדירוג שלך!</string>
+    <string name="rate_me_5_stars_message">אם אתם נהנים מהאפליקציה, אנא שקלו לתת לנו דירוג של 5 כוכבים. המשוב שלכם הוא מוטיבציה נהדרת עבורנו להמשיך ולהשתפר.</string>
+    <string name="rate_me_5_stars_later_btn">אחר כך</string>
+    <string name="rate_me_5_stars_rate_btn">דרג אותנו 5 כוכבים</string>
+</resources>

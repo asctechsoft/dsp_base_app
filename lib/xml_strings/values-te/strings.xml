@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">మీరు ఏమి తప్పు జరిగిందో మాకు సూచించండి మరియు మేము దానిపై పని చేస్తాము.</string>
+    <string name="new_txtid_rate_app_later">నేను తరువాత చేస్తాను</string>
+    <string name="new_txtid_rate_app_content_new_1">మేము చాలా కష్టపడి పనిచేస్తాము మరియు ప్రతిరోజూ యాప్‌ను మరింత మెరుగుపరచడానికి మా వంతు ప్రయత్నం చేస్తాము. స్టోర్‌లో మంచి రేటింగ్ ఇవ్వడం ద్వారా మమ్మల్ని ప్రోత్సహించండి, తద్వారా మేము మీ కోసం యాప్‌ను మరింత మెరుగ్గా చేస్తాము.</string>
+    <string name="new_txtid_rate_app_content_new_2">ధన్యవాదాలు మరియు మంచి రోజు!</string>
+    <string name="new_txtid_rate_me_5_star">నాకు 5 నక్షత్రాలను రేట్ చేయండి</string>
+    <string name="new_txtid_later">తర్వాత</string>
+    <string name="new_txtid_rating_dialog_feedback_title">అభిప్రాయం ఇవ్వండి</string>
+    <string name="new_txtid_dislike">లేదు, ఇష్టపడలేదు</string>
+    <string name="new_txtid_rating_bar">రేటింగ్ బార్</string>
+    <string name="rate_me_the_best_we_can_get">మనం పొందగలిగిన ఉత్తమం</string>
+    <string name="rate_me_rate_us_on_google_play">Google Playలో రేట్ చేయండి</string>
+    <string name="rate_me_rate_us_on_appstore">App Storeలో మమ్మల్ని రేట్ చేయండి</string>
+    <string name="rate_me_rate_us">మాకు రేటింగ్ ఇవ్వండి</string>
+    <string name="rate_me_not_really">నిజంగా కాదు</string>
+    <string name="rate_me_share_feedback">అభిప్రాయాన్ని పంచుకోండి</string>
+    <string name="rate_me_oh_no">అయ్యో, లేదు!</string>
+    <string name="rate_me_thats_great">అది చాలా బాగుంది!</string>
+    <string name="rate_me_we_love_it">మాకు ఇది చాలా ఇష్టం!!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">మీ అభిప్రాయానికి ధన్యవాదాలు!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">మీ అనుభవానికి మేము చింతిస్తున్నాము.</string>
+    <string name="rate_me_please_leave_us_some_feedback">దయచేసి మాకు కొంత ఫీడ్‌బ్యాక్ ఇవ్వండి.</string>
+    <string name="rate_me_thank_you_for_your_rating">మీ రేటింగ్‌కు ధన్యవాదాలు!</string>
+    <string name="rate_me_5_stars_message">మీకు ఈ యాప్ నచ్చితే, దయచేసి మాకు 5-నక్షత్రాల రేటింగ్ ఇవ్వండి. మీ అభిప్రాయం మేము మరింత మెరుగుపరచడానికి గొప్ప ప్రోత్సాహాన్నిస్తుంది.</string>
+    <string name="rate_me_5_stars_later_btn">తర్వాత</string>
+    <string name="rate_me_5_stars_rate_btn">మాకు 5 తారలు రేట్ చేయండి</string>
+</resources>

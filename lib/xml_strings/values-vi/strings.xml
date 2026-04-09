@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_txtid_rating_dialog_feedback_custom_message">Góp ý cho chúng tôi vấn đề bạn gặp phải để chúng tôi khắc phục nhé.</string>
+    <string name="new_txtid_rate_app_later">Tôi sẽ làm sau.</string>
+    <string name="new_txtid_rate_app_content_new_1">Chúng tôi luôn nỗ lực hết mình để cải thiện ứng dụng mỗi ngày. Xin hãy ủng hộ chúng tôi bằng cách đánh giá tốt trên Store để chúng tôi có thể mang đến một ứng dụng tốt hơn nữa cho bạn.</string>
+    <string name="new_txtid_rate_app_content_new_2">Cảm ơn bạn và chúc bạn một ngày tốt lành!</string>
+    <string name="new_txtid_rate_me_5_star">Đánh giá tôi 5 sao</string>
+    <string name="new_txtid_later">Sau đó</string>
+    <string name="new_txtid_rating_dialog_feedback_title">Gửi Phản Hồi</string>
+    <string name="new_txtid_dislike">Không, Không thích</string>
+    <string name="new_txtid_rating_bar">Thanh đánh giá</string>
+    <string name="rate_me_the_best_we_can_get">Điều Tốt Nhất Chúng Tôi Có Thể Nhận Được</string>
+    <string name="rate_me_rate_us_on_google_play">Đánh giá chúng tôi trên Google Play</string>
+    <string name="rate_me_rate_us_on_appstore">Đánh giá chúng tôi trên App Store</string>
+    <string name="rate_me_rate_us">Đánh giá chúng tôi</string>
+    <string name="rate_me_not_really">Không thực sự</string>
+    <string name="rate_me_share_feedback">Chia sẻ phản hồi</string>
+    <string name="rate_me_oh_no">Ôi không!</string>
+    <string name="rate_me_thats_great">Tuyệt vời!</string>
+    <string name="rate_me_we_love_it">Chúng tôi yêu nó !!!</string>
+    <string name="rate_me_thank_you_for_your_feedback">Cảm ơn bạn đã phản hồi!</string>
+    <string name="rate_me_we_are_sorry_to_know_your_experience">Chúng tôi rất tiếc khi biết về trải nghiệm của bạn.</string>
+    <string name="rate_me_please_leave_us_some_feedback">Vui lòng để lại cho chúng tôi một số phản hồi.</string>
+    <string name="rate_me_thank_you_for_your_rating">Cảm ơn bạn đã đánh giá!</string>
+    <string name="rate_me_5_stars_message">Nếu bạn thích ứng dụng này, vui lòng đánh giá 5 sao cho chúng tôi. Phản hồi của bạn là động lực lớn để chúng tôi tiếp tục cải thiện.</string>
+    <string name="rate_me_5_stars_later_btn">Sau</string>
+    <string name="rate_me_5_stars_rate_btn">Đánh giá chúng tôi 5 sao</string>
+</resources>
