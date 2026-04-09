@@ -22,7 +22,7 @@ ADB = os.path.join(ANDROID_HOME, "platform-tools", "adb")
 AVDMANAGER = os.path.join(ANDROID_HOME, "cmdline-tools", "latest", "bin", "avdmanager")
 SDKMANAGER = os.path.join(ANDROID_HOME, "cmdline-tools", "latest", "bin", "sdkmanager")
 
-NOTIFY_URL = "http://139.59.225.32:368/api/bitrix_group_test_notification"
+NOTIFY_URL = "" # Điền Telegram API URL vào đây nếu cần dùng test_helper sau này
 BOOT_TIMEOUT = 300
 
 # ─── Colors ──────────────────────────────────────────────────────────────────

@@ -12,14 +12,14 @@ class CommLocalize {
     // Save the locale
     await PrefAssist.setString(PrefComm.CONFIGURED_LOCALE_BY_USER, locale.toString());
 
-    for (final pair in _cachedLocaleFiles) {
+    for (final pair in _cachedLocaleFiles.toList()) {
       await CommLocalize.loadTranslations(pair.key, pair.value, isChangeLocale: true);
     }
     await Get.updateLocale(locale);
   }
 
   static Future<void> deviceChangeLocale(Locale locale) async {
-    for (final pair in _cachedLocaleFiles) {
+    for (final pair in _cachedLocaleFiles.toList()) {
       await CommLocalize.loadTranslations(pair.key, pair.value, isChangeLocale: true);
     }
     await Get.updateLocale(locale);

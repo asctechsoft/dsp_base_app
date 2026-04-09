@@ -10,23 +10,7 @@ import subprocess
 FLAVOR_NAME = 'Dev'
 FLAVOR_BUILD = 'Release'
 
-TESTER_EMAILS = (
-    # Tester
-    "uyenltt@bachasoft.com,"
-    "thovt@bachasoft.com,"
-
-    # Designer
-    "anhtm@bachasoft.com,"
-    "trangdh@bachasoft.com,"
-    "thinhtd@bachasoft.com,"
-
-    # Developer
-    "ducnv@bachasoft.com,"
-    "hoangpd@bachasoft.com,"
-    "longnn@bachasoft.com,"
-    "hongpt@bachasoft.com,"
-    "nguyennx@bachasoft.com"
-)
+TESTER_EMAILS = "asctechsoft888@gmail.com"
 
 FIREBASE_APP_ID = ""
 
@@ -223,7 +207,7 @@ def func_release_note():
     git_summary = _get_git_uncommitted_summary()
 
     # Overwrite release notes file
-    with open('build_release_notes.txt', 'w') as f:
+    with open('build_release_notes.txt', 'w', encoding='utf-8') as f:
         f.write(header + '\n')
         f.write(git_summary + '\n')
 
@@ -253,7 +237,7 @@ def distribute_apks():
     # Read release notes from file
     release_notes_file = "build_release_notes.txt"
     if os.path.exists(release_notes_file):
-        with open(release_notes_file, "r") as f:
+        with open(release_notes_file, "r", encoding='utf-8') as f:
             release_notes = f.read()
     else:
         release_notes = "No release note"
@@ -331,33 +315,36 @@ def func_get_app_name():
 
 
 def func_send_notification(message):
-    """Send notification to Bitrix group when build is completed"""
+    """Send notification to Telegram group when build is completed"""
     try:
         import urllib.request
         import urllib.parse
         import json
 
-        api_url = "http://139.59.225.32:368/api/bitrix_group_test_notification"
+        # TODO: Điền Token và Chat ID của bạn vào 2 dòng dưới đây
+        TELEGRAM_BOT_TOKEN = "8791743330:AAHhyV3I68c5i3IjCurjIqT45-Feq6j14K8"
+        TELEGRAM_CHAT_ID = "2121365611"
+        
+        api_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
 
-        params = urllib.parse.urlencode({'message': message})
-        url = f"{api_url}?{params}"
+        data = urllib.parse.urlencode({
+            'chat_id': TELEGRAM_CHAT_ID,
+            'text': message
+        }).encode('utf-8')
 
-        req = urllib.request.Request(url)
+        req = urllib.request.Request(api_url, data=data)
         with urllib.request.urlopen(req, timeout=10) as response:
             status_code = response.getcode()
             body = response.read().decode('utf-8')
 
             if status_code == 200:
-                print(f"✅ Notification sent successfully: {message}")
-                print(f"Response: {json.loads(body)}")
+                print(f"✅ Notification sent to Telegram successfully")
             else:
-                print(f"❌ Failed to send notification. Status code: {status_code}")
+                print(f"❌ Failed to send Telegram notification. Status: {status_code}")
                 print(f"Response: {body}")
-
-    except urllib.error.URLError as e:
-        print(f"❌ Error sending notification: {e}")
+                
     except Exception as e:
-        print(f"❌ Unexpected error: {e}")
+        print(f"❌ Error sending Telegram notification: {e}")
 
 
 def timed_input(timeout_seconds: int) -> str:
@@ -443,7 +430,7 @@ def _run_translate():
     original_argv = sys.argv
     sys.argv = [sys.argv[0]] + sys.argv[2:]  # skip 'translate' arg
     try:
-        from amobi_common.translate import main as translate_main
+        from dsp_base.translate import main as translate_main
         translate_main()
     finally:
         sys.argv = original_argv
@@ -452,7 +439,7 @@ def _run_translate():
 def _check_translations():
     """Check for untranslated strings and print summary."""
     try:
-        from amobi_common.translate import print_untranslated_check
+        from dsp_base.translate import print_untranslated_check
         print_untranslated_check()
     except Exception as e:
         print(f"⚠️  Translation check skipped: {e}")
@@ -486,37 +473,7 @@ def main_build(
             _run_translate()
             return
 
-        # Handle "claude" command: build Alpha Debug only if there are unstaged changes
-        if sys.argv[1].lower() == "claude":
-            try:
-                import urllib.request
-                import json
-                settings_url = "https://gist.githubusercontent.com/nxnguyen/42a0da3505e30b4566cf7e8981bf9c22/raw/claude_settings.json"
-                req = urllib.request.Request(settings_url, headers={"User-Agent": "build_helper"})
-                with urllib.request.urlopen(req, timeout=5) as resp:
-                    settings = json.loads(resp.read().decode())
-                if not settings.get("auto_build", False):
-                    print("⏭️ auto_build is disabled in remote settings. Skipping build.")
-                    return
-            except Exception as e:
-                print(f"⚠️ Could not fetch remote settings ({e}). Skipping build.")
-                return
-            result = subprocess.run(
-                ['git', 'diff', '--name-only', '--ignore-submodules'],
-                capture_output=True, text=True, check=False
-            )
-            unstaged_files = [line for line in result.stdout.strip().splitlines() if line.strip()]
-            if not unstaged_files:
-                print("✅ No unstaged changes found. Nothing to build.")
-                return
-            print(f"🔍 Found {len(unstaged_files)} changed file(s):")
-            for f in unstaged_files:
-                print(f"   {f}")
-            print("\n🧪 Starting Alpha Debug build...\n")
-            FLAVOR_NAME = "Alpha"
-            FLAVOR_BUILD = "Debug"
-        else:
-            FLAVOR_NAME = "" + sys.argv[1]
+        FLAVOR_NAME = "" + sys.argv[1]
     else:
         # Show menu to select flavor and build type combination
         FLAVOR_NAME, FLAVOR_BUILD = show_build_config_menu()
@@ -526,7 +483,7 @@ def main_build(
         _run_translate()
         return
 
-    if len(sys.argv) > 2 and sys.argv[1].lower() != "claude":
+    if len(sys.argv) > 2:
         FLAVOR_BUILD = "" + sys.argv[2]
 
     # cap first letter of FLAVOR_NAME
@@ -596,27 +553,15 @@ def main_build(
     # Check untranslated strings after build
     _check_translations()
 
-    current_hour = int(time.strftime('%H'))
-    current_min = int(time.strftime('%M'))
-    import datetime
-    current_weekday = datetime.datetime.now().weekday()  # 0=Monday, 5=Saturday, 6=Sunday
-    is_weekend = current_weekday >= 5  # 5=Saturday, 6=Sunday
-    current_total_min = current_hour * 60 + current_min
-    is_lunch_break = (11 * 60 + 45) <= current_total_min < (13 * 60 + 30)
-    is_working_hours = (8 <= current_hour < 17 or (current_hour == 17 and current_min < 30))
-    if not is_weekend and not is_lunch_break and is_working_hours:
-        app_name = func_get_app_name()
-        message = f"{app_name} 1.{VERSION_NAME} 🚀Apk Build Completed"
-        message  += f"\n[{FLAVOR_NAME}_{FLAVOR_BUILD}] by {GIT_USER}"
-        message  += f"\n📦 APK Size: {apk_size_mb} MB"
-        message  += f"\n\n{git_summary}"
+    app_name = func_get_app_name()
+    message = f"{app_name} 1.{VERSION_NAME} 🚀Apk Build Completed"
+    message  += f"\n[{FLAVOR_NAME}_{FLAVOR_BUILD}] by {GIT_USER}"
+    message  += f"\n📦 APK Size: {apk_size_mb} MB"
+    message  += f"\n\n{git_summary}"
 
-        if apk_files_exist:
-            print(message)
-            func_send_notification(message)
-        else:
-            print(f"{app_name} ❌ Apk Build Failed\nNo APK generated by {GIT_USER}")
-            func_send_notification(f"{app_name} ❌ Apk Build Failed\nNo APK generated by {GIT_USER}")
+    if apk_files_exist:
+        print(message)
+        func_send_notification(message)
     else:
-        skip_reason = "Weekend (Saturday/Sunday)" if is_weekend else "Lunch break (11:45 AM - 1:30 PM)" if is_lunch_break else "Outside working hours (8 AM - 5:30 PM)"
-        print(f"⏰ Notification skipped - {skip_reason}. Current time: {time.strftime('%A %H:%M')}")
+        print(f"{app_name} ❌ Apk Build Failed\nNo APK generated by {GIT_USER}")
+        func_send_notification(f"{app_name} ❌ Apk Build Failed\nNo APK generated by {GIT_USER}")
