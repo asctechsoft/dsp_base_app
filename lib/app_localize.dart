@@ -438,7 +438,22 @@ class CommLocalize {
     }
   }
 
-  static const supportedLocales = <Locale>[
+  /// Locales offered when [CommFigs.IS_MULTI_LANGUAGE] is `false`.
+  /// Only English and Vietnamese are shown in this mode.
+  static const _enViSupportedLocales = <Locale>[
+    Locale("en", "US"), // English (United States)
+    Locale("vi", "VN"), // Vietnamese (Vietnam)
+  ];
+
+  /// The locales the app actually offers.
+  ///
+  /// - When [CommFigs.IS_MULTI_LANGUAGE] is `true`  -> full multi-language list.
+  /// - When [CommFigs.IS_MULTI_LANGUAGE] is `false` -> English + Vietnamese only.
+  static const List<Locale> supportedLocales =
+      CommFigs.IS_MULTI_LANGUAGE ? _allSupportedLocales : _enViSupportedLocales;
+
+  /// Full multi-language locale list (used when [CommFigs.IS_MULTI_LANGUAGE] is `true`).
+  static const _allSupportedLocales = <Locale>[
     Locale("en", "US"), // English (United States)
 
     Locale("af", "ZA"), // Afrikaans (South Africa)
