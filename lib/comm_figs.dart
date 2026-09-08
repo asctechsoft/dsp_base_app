@@ -24,7 +24,7 @@ class CommFigs {
   // Localization Flags
   // true  -> use full multi-language support (all locales in [CommLocalize.supportedLocales]).
   // false -> only English and Vietnamese are offered.
-  static const bool IS_MULTI_LANGUAGE = false;
+  static const bool IS_MULTI_LANGUAGE = true;
 
   static const bool IS_SHOW_TEST_OPTION = IS_CLAUDE || IS_ALPHA || IS_DEV;
   static const bool IS_ADD_TEST_DEVICE = IS_SHOW_TEST_OPTION;

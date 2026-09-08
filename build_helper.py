@@ -154,13 +154,13 @@ def _get_git_uncommitted_summary():
         commit_hash = result.stdout.strip() if result.returncode == 0 else 'unknown'
 
         total_lines = insertions + deletions
-        lines.append(f"🌿 Branch: {branch} ({commit_hash})")
-        lines.append(f"📂 Files changed: {files_changed}")
+        lines.append(f"🔀 Branch: {branch} ({commit_hash})")
+        lines.append(f"📁 Files changed: {files_changed}")
         if untracked_files:
-            lines.append(f"🆕 New files: {len(untracked_files)}")
-        lines.append(f"📝 Total lines changed: {total_lines}")
-        lines.append(f"  ✅ Insertions: +{insertions}")
-        lines.append(f"  ❌ Deletions: -{deletions}")
+            lines.append(f"✨ New files: {len(untracked_files)}")
+        lines.append(f"📊 Lines changed: {total_lines}")
+        lines.append(f"  ➕ Insertions: +{insertions}")
+        lines.append(f"  ➖ Deletions: -{deletions}")
 
         ext_count = {}
         for f in changed_files + untracked_files:
@@ -169,10 +169,10 @@ def _get_git_uncommitted_summary():
         if ext_count:
             top_exts = sorted(ext_count.items(), key=lambda x: x[1], reverse=True)[:5]
             ext_str = ', '.join(f"{ext}({cnt})" for ext, cnt in top_exts)
-            lines.append(f"📊 File types: {ext_str}")
+            lines.append(f"🗂 File types: {ext_str}")
 
         if changed_files:
-            lines.append(f"🔥 Top changes:")
+            lines.append(f"📌 Top changes:")
             for f in changed_files[:3]:
                 lines.append(f"  • {f}")
 
@@ -314,37 +314,61 @@ def func_get_app_name():
         return "Unknown App"
 
 
+_TELEGRAM_BOT_TOKEN = "8290882409:AAEY26zMYllnDl7c5WRwTaGwONTzwUDlLF0"
+_TELEGRAM_CHAT_ID  = "2121365611"
+
+# Email config — set via main_build() params
+_EMAIL_TO       = ""
+_EMAIL_FROM     = ""
+_EMAIL_PASSWORD = ""  # Gmail App Password (Settings → Security → App Passwords)
+
+
 def func_send_notification(message):
-    """Send notification to Telegram group when build is completed"""
+    """Send build notification to Telegram (AscTech Bot)."""
     try:
         import urllib.request
         import urllib.parse
-        import json
 
-        # TODO: Điền Token và Chat ID của bạn vào 2 dòng dưới đây
-        TELEGRAM_BOT_TOKEN = "8791743330:AAHhyV3I68c5i3IjCurjIqT45-Feq6j14K8"
-        TELEGRAM_CHAT_ID = "2121365611"
-        
-        api_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-
+        api_url = f"https://api.telegram.org/bot{_TELEGRAM_BOT_TOKEN}/sendMessage"
         data = urllib.parse.urlencode({
-            'chat_id': TELEGRAM_CHAT_ID,
+            'chat_id': _TELEGRAM_CHAT_ID,
             'text': message
         }).encode('utf-8')
 
         req = urllib.request.Request(api_url, data=data)
         with urllib.request.urlopen(req, timeout=10) as response:
-            status_code = response.getcode()
-            body = response.read().decode('utf-8')
-
-            if status_code == 200:
-                print(f"✅ Notification sent to Telegram successfully")
+            if response.getcode() == 200:
+                print("✅ Telegram notification sent")
             else:
-                print(f"❌ Failed to send Telegram notification. Status: {status_code}")
-                print(f"Response: {body}")
-                
+                print(f"❌ Telegram failed: {response.getcode()}")
     except Exception as e:
-        print(f"❌ Error sending Telegram notification: {e}")
+        print(f"❌ Telegram error: {e}")
+
+
+def func_send_email(subject, body):
+    """Send build notification email via Gmail SMTP."""
+    if not _EMAIL_PASSWORD or not _EMAIL_FROM or not _EMAIL_TO:
+        print("⚠️  Email skipped — EMAIL_FROM / EMAIL_PASSWORD not configured")
+        return
+    try:
+        import smtplib
+        from email.mime.text import MIMEText
+        from email.mime.multipart import MIMEMultipart
+
+        msg = MIMEMultipart()
+        msg['From']    = _EMAIL_FROM
+        msg['To']      = _EMAIL_TO
+        msg['Subject'] = subject
+        msg.attach(MIMEText(body, 'plain', 'utf-8'))
+
+        with smtplib.SMTP('smtp.gmail.com', 587) as server:
+            server.ehlo()
+            server.starttls()
+            server.login(_EMAIL_FROM, _EMAIL_PASSWORD)
+            server.sendmail(_EMAIL_FROM, _EMAIL_TO, msg.as_string())
+        print(f"✅ Email sent → {_EMAIL_TO}")
+    except Exception as e:
+        print(f"❌ Email error: {e}")
 
 
 def timed_input(timeout_seconds: int) -> str:
@@ -369,32 +393,16 @@ def timed_input(timeout_seconds: int) -> str:
     return result[0] if result[0] is not None else ""
 
 
-MENU_CHOICE_TRANSLATE = 7
+MENU_CHOICE_TRANSLATE = 5
 
 def show_build_config_menu():
     """Show menu for selecting flavor and build type combination"""
-    FLAVORS = ["Alpha", "Dev", "Product"]
-    BUILD_TYPES = ["Debug", "Release"]
-
-    # Emoji mapping for flavors and build types
-    FLAVOR_EMOJIS = {
-        "Alpha": "🧪",
-        "Dev": "🛠️",
-        "Product": "🚀"
-    }
-    BUILD_TYPE_EMOJIS = {
-        "Debug": "🐛",
-        "Release": "✅"
-    }
-
-    # Create all combinations
-    MENU_OPTIONS = []
-    for flavor in FLAVORS:
-        for build_type in BUILD_TYPES:
-            flavor_emoji = FLAVOR_EMOJIS.get(flavor, "")
-            build_type_emoji = BUILD_TYPE_EMOJIS.get(build_type, "")
-            label = f"{flavor_emoji} {flavor} {build_type} {build_type_emoji}"
-            MENU_OPTIONS.append((label, flavor, build_type))
+    MENU_OPTIONS = [
+        ("🚫 NoAds Debug  🐛", "Alpha",   "Debug"),
+        ("🛠️  Dev Debug    🐛", "Dev",     "Debug"),
+        ("🚀 Product Debug 🐛", "Product", "Debug"),
+        ("🚀 Product Release ✅", "Product", "Release"),
+    ]
 
     print("\n=== Select Build Configuration ===\n")
     for idx, (label, _, _) in enumerate(MENU_OPTIONS, start=1):
@@ -452,9 +460,16 @@ def main_build(
         service_account_json_path = os.path.join(
             os.path.dirname(os.path.abspath(__file__)),
             'build_auth.json'
-            )
+            ),
+        email_to       = "dsp.entertainment.99@gmail.com",
+        email_from     = "",
+        email_password = "",
     ):
     global FLAVOR_NAME, FLAVOR_BUILD, PATH_APK, TESTER_EMAILS, FIREBASE_APP_ID, GIT_USER, SERVICE_ACCOUNT_JSON_PATH
+    global _EMAIL_TO, _EMAIL_FROM, _EMAIL_PASSWORD
+    _EMAIL_TO       = email_to
+    _EMAIL_FROM     = email_from
+    _EMAIL_PASSWORD = email_password
     if service_account_json_path is not None:
         SERVICE_ACCOUNT_JSON_PATH = service_account_json_path
     if firebase_app_id_prod == "" or firebase_app_id_prod is None:
@@ -554,14 +569,17 @@ def main_build(
     _check_translations()
 
     app_name = func_get_app_name()
-    message = f"{app_name} 1.{VERSION_NAME} 🚀Apk Build Completed"
-    message  += f"\n[{FLAVOR_NAME}_{FLAVOR_BUILD}] by {GIT_USER}"
+    message = f"💧 {app_name} v{VERSION_NAME} — Build xong rồi! 🎉"
+    message  += f"\n🏷 [{FLAVOR_NAME}_{FLAVOR_BUILD}] by {GIT_USER}"
     message  += f"\n📦 APK Size: {apk_size_mb} MB"
     message  += f"\n\n{git_summary}"
 
     if apk_files_exist:
         print(message)
         func_send_notification(message)
+        func_send_email(f"✅ {app_name} Build Completed [{FLAVOR_NAME}_{FLAVOR_BUILD}]", message)
     else:
-        print(f"{app_name} ❌ Apk Build Failed\nNo APK generated by {GIT_USER}")
-        func_send_notification(f"{app_name} ❌ Apk Build Failed\nNo APK generated by {GIT_USER}")
+        fail_msg = f"💥 {app_name} — Build thất bại!\nNo APK generated by {GIT_USER}"
+        print(fail_msg)
+        func_send_notification(fail_msg)
+        func_send_email(f"❌ {app_name} Build Failed [{FLAVOR_NAME}_{FLAVOR_BUILD}]", fail_msg)
