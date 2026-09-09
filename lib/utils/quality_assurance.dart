@@ -272,9 +272,6 @@ class _ErrorOverlayWidget extends StatelessWidget {
 
     // Identify project files - these patterns indicate project code
     final projectPatterns = [
-      RegExp(r"package:period_cycle/"),
-      RegExp(r"package:live_translator/"),
-      RegExp(r"package:ez_ai/"),
       RegExp(r"package:dsp_base/"),
       RegExp(r"lib/"),
       RegExp(r"dsp_base/lib/"),
