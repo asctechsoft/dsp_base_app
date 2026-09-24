@@ -8,6 +8,7 @@ import "package:firebase_analytics/firebase_analytics.dart";
 import "package:firebase_crashlytics/firebase_crashlytics.dart";
 import "package:firebase_messaging/firebase_messaging.dart";
 import "package:firebase_remote_config/firebase_remote_config.dart";
+import "package:flutter/foundation.dart" show debugPrint;
 import "package:flutter/services.dart";
 
 class FirebaseAssist {
@@ -139,6 +140,35 @@ class FirebaseAssist {
   }
 
   // ================================ Analytics ================================
+
+  /// Generic custom-event logger for app-level analytics gateways (e.g.
+  /// `Analytics.track` in the host app). Respects the same consent gate as
+  /// every other event below; params must be `String`/`num`/`bool` per the
+  /// Firebase Analytics plugin's contract.
+  ///
+  /// Swallows the error if Firebase itself never finished initializing (a
+  /// failed `Firebase.initializeApp()`, or a host app/test that never calls
+  /// it) — telemetry must never be why the app crashes.
+  static void logCustomEvent(String name, [Map<String, Object>? params]) {
+    if (!isAnalyticsEnabled) return;
+    try {
+      FirebaseAnalytics.instance.logEvent(name: name, parameters: params);
+    } catch (e) {
+      debugPrint("FirebaseAssist.logCustomEvent($name) failed: $e");
+    }
+  }
+
+  /// Generic user-property setter, gated and guarded the same way as
+  /// [logCustomEvent].
+  static void setUserProperty(String name, String? value) {
+    if (!isAnalyticsEnabled) return;
+    try {
+      FirebaseAnalytics.instance.setUserProperty(name: name, value: value);
+    } catch (e) {
+      debugPrint("FirebaseAssist.setUserProperty($name) failed: $e");
+    }
+  }
+
   static void logPaidAdvertsClicked(Map<String, Object>? params) {
     if (!isAnalyticsEnabled) return;
     FirebaseAnalytics.instance.logEvent(
