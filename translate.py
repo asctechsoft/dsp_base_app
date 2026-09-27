@@ -664,7 +664,7 @@ def check_untranslated_strings():
     excluded = ["strings_ids.xml"]
 
     # Check a representative subset of languages for missing keys
-    check_languages = ['vi', 'ja', 'ko', 'zh-rCN', 'fr', 'de', 'es', 'pt-rBR', 'ar', 'ru']
+    check_languages = ['vi', 'ja', 'ko', 'zh-rCN', 'zh-rTW', 'fr', 'de', 'es', 'pt', 'ar', 'ru', 'it', 'tr', 'id', 'fa']
 
     missing = []
     for res_dir in dirs:
