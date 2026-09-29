@@ -234,18 +234,24 @@ def distribute_apks():
     if not os.path.exists(apk_path):
         print(f"APK not found: {apk_path}")
         return
-    # Read release notes from file
+    # Point Firebase CLI at the release notes file directly (--release-notes-file)
+    # instead of reading it into a string and passing it inline via
+    # --release-notes. On Windows, "firebase" resolves to firebase.CMD, and
+    # subprocess.run() has to hand cmd.exe a single command-line string — a
+    # multi-line value (release notes always have line breaks: branch, files
+    # changed, etc.) gets cut at the first newline, silently dropping every
+    # flag after --release-notes. That's why --testers never reached the CLI
+    # ("no testers or groups specified, skipping") even though TESTER_EMAILS
+    # was correct — the release notes text ate it.
     release_notes_file = "build_release_notes.txt"
-    if os.path.exists(release_notes_file):
-        with open(release_notes_file, "r", encoding='utf-8') as f:
-            release_notes = f.read()
-    else:
-        release_notes = "No release note"
+    if not os.path.exists(release_notes_file):
+        with open(release_notes_file, "w", encoding='utf-8') as f:
+            f.write("No release note")
     print(f"Distributing {apk_path}...")
     cmd = [
         "firebase", "appdistribution:distribute", apk_path,
         "--app", FIREBASE_APP_ID,
-        "--release-notes", release_notes,
+        "--release-notes-file", release_notes_file,
         "--testers", TESTER_EMAILS
     ]
 
@@ -393,21 +399,22 @@ def timed_input(timeout_seconds: int) -> str:
     return result[0] if result[0] is not None else ""
 
 
-MENU_CHOICE_TRANSLATE = 5
-
 def show_build_config_menu():
     """Show menu for selecting flavor and build type combination"""
     MENU_OPTIONS = [
-        ("🚫 NoAds Debug  🐛", "Alpha",   "Debug"),
-        ("🛠️  Dev Debug    🐛", "Dev",     "Debug"),
-        ("🚀 Product Debug 🐛", "Product", "Debug"),
+        ("🚫 NoAds Debug    🐛", "Alpha",   "Debug"),
+        ("🚫 NoAds Release  ✅", "Alpha",   "Release"),
+        ("🛠️  Dev Debug      🐛", "Dev",     "Debug"),
+        ("🛠️  Dev Release    ✅", "Dev",     "Release"),
+        ("🚀 Product Debug   🐛", "Product", "Debug"),
         ("🚀 Product Release ✅", "Product", "Release"),
     ]
+    menu_choice_translate = len(MENU_OPTIONS) + 1
 
     print("\n=== Select Build Configuration ===\n")
     for idx, (label, _, _) in enumerate(MENU_OPTIONS, start=1):
         print(f"{idx:>2}. {label}")
-    print(f" {MENU_CHOICE_TRANSLATE}. 🌐 Translate")
+    print(f"{menu_choice_translate:>2}. 🌐 Translate")
     print(f"{0:>2}. 🔴 Exit")
     print("")
 
@@ -421,7 +428,7 @@ def show_build_config_menu():
     if choice == 0:
         sys.exit(0)
 
-    if choice == MENU_CHOICE_TRANSLATE:
+    if choice == menu_choice_translate:
         return None, None  # Signal to run translate
 
     if choice < 1 or choice > len(MENU_OPTIONS):
